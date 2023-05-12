@@ -1,0 +1,36 @@
+{
+  "Naturkatastrophe": {
+    "Arten von Naturkatastrophen": {
+      "Geologische" : {
+        "Erdbeben": {},
+        "Vulkanausbrüche":  {},
+        "Tsunamis": {}
+      } ,
+      "Meteorologische":{
+        "Hurrikane": {},
+        "Tornados": {},
+        "Stürme": {},
+        "Dürren": {},
+        "Waldbrände": {},
+        "Hagelstürme": {}
+      } ,
+      "Hydrologische" : {
+        "Überschwemmungen": {},
+        "Schneestürme": {},
+        "Lawinen": {}
+      } ,
+      "Klimabedingte" :{
+        "Extremwetterereignisse": {
+          "Hitzewellen": {},
+          "Starkregen": {},
+          "Stürme": {}
+        },
+      "Biologische" : {
+        "Insektenplagen": {},
+        "Epidemien": {}
+      }
+      }
+
+    }
+  }
+}
