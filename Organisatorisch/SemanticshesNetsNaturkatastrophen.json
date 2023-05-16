@@ -336,8 +336,13 @@
               }
             }
           },
-          "Starkregen": {},
-          "Stürme": {}
+          "Unwetter": {
+            "Starkregen": {
+
+            },
+          "Sturm": {
+          }
+          }
         },
         "Biologische": {
           "Insektenplagen": {},
@@ -350,15 +355,27 @@
         "Frühwarnsystem": {
           "SMS-Warnsystem": {},
           "Deiche für Küstenstädte": {},
-          "Erdbebenfrühwarnung": {}
+          "Erdbebenfrühwarnung": {},
+          "KI-Warnsysteme für Unwetterwarnung": {}
         },
-        "Evakuierung": {},
-        "Risikobewertung": {},
-        "Notfallplan": {},
+        "Evakuierung": {
+          "Evakuierungstreffpunkt finden": {},
+          "Evakuierungszentrum": {},
+          "Evakuierungszone": {},
+          "Evakuierungsaufforderungen (Evakuierungsbefehle)": {}
+        },
+        "Notfallplan": {
+           "Evakuierungsplan": {},
+          "Verpflegung, Strom- und Trinkwasserversorgung": {}
+        },
         "Katastrophenschutzübung": {
           "Trainingsprogramme für Bevölkerung": {}
         },
-        "Katastrophenmanagement": {}
+        "Katastrophenmanagement": {
+          "Katastrophenschutzgesetze": {},
+           "Katastrophenschutzbehörde": {},
+          "EU-Katastrophenschutzverfahren": {}
+        }
       },
       "Rettung und Soforthilfe": {
         "Rettungseinsatz": {
@@ -368,12 +385,12 @@
           "Retungsorganisation Weißhelme": {},
           "Türkischer Roter Halbmond (Hilfsorganisation)": {}
         },
-        "Notfallvorsorge": {},
         "Opferhilfe": {
           "schnelle Visavergabe": {
             "Flüchtlichgsorganisationen": {}
           },
-          "Versorgung von Überlebenden und Verletzten": {}
+          "Versorgung von Überlebenden und Verletzten": {},
+          "medizinische Versorgung": {}
         },
         "Nothilfe": {
           "Notunterkünfte": {},
@@ -385,9 +402,12 @@
         "Schadensbegrenzung": {},
         "Hilfsmaßnahmen": {},
         "Wiederaufbau": {
-          "Gebäudeversicherung": {}
+          "Sach- und Wohngebäudeversicherung": {}
         },
-        "Katastrophenschaden": {}
+        "Katastrophenschaden": {
+          "entwurzelte Bäume": {}, "Gebäudeschäden (beschädigte Dacher)": {}, "überfluttete Straßen": {},
+          "Sachschäden": {}, "Behinderungen im Bahn- und Straßenverkehr": {}
+        }
       },
       "Koordination und Organisation": {
         "Krisenreaktion": {},
