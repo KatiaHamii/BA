@@ -6,13 +6,16 @@
           "Erdbebenphänomene": {
             "Erdbebebnschwam/Schwarmbeben": {
               "Schwarmlawine": {
-                "Murgang": {}}},
+                "Murgang": {}
+              }
+            },
             "Seismische Aktivität": {},
             "Nachbeben": {},
             "Epizentrum": {},
             "Hauptbeben": {},
             "Hypozentrum": {},
-            "Vorbeben": {}},
+            "Vorbeben": {}
+          },
           "Erdbebenurschen": {
             "Erdkruste": {
               "Tiefherdbeben": {}
@@ -78,7 +81,7 @@
               "Risiko-Zone": {
                 "Erdbeben in Türkein": {},
                 "Erdbeben in Syrien": {},
-                 "Erdbeben im Indischen Ozean 2004": {},
+                "Erdbeben im Indischen Ozean 2004": {},
                 "Seebeben vor Java Juli 2006": {}
               }
             }
@@ -90,32 +93,35 @@
           }
         },
         "Vulkanausbruch": {
-          "Beruhigung der Lage:Prognose": {"Entleerung der Magma-Krater":  {},
+          "Beruhigung der Lage:Prognose": {
+            "Entleerung der Magma-Krater": {},
             "Schlotverschließung": {}
           },
           "Vulkanphänomene": {
             "Krater (Caldera)": {},
             "Magma (Lavafluss, Lavastrom)": {},
             "Eruption": {
-              "strombolianischen Eruption":{},
+              "strombolianischen Eruption": {},
               "plinianischen Eruption": {},
               "Eruptionssäule": {},
-              "vulkanische Bomben": {}}
-
+              "vulkanische Bomben": {}
+            }
           },
           "von Volkan ausgelöste Ereignisse": {
-            "Lahar (Schlamm- und Schuttströme)":{},
+            "Lahar (Schlamm- und Schuttströme)": {},
             "pyroklastische Ströme (Glühlawine)": {},
             "Gletscher": {},
             "Tsunami": {}
           },
           "Vulkantyp": {
             "Schichtvulkan": {},
-            "Schildvulkan": {}, "komplexer Vulkan": {},
+            "Schildvulkan": {},
+            "komplexer Vulkan": {},
             "Schlackenkegel": {},
             "Spaltenvulkan": {},
             "Kraterreihe": {},
-            "Maar": {},"submariner Vulkan":{},
+            "Maar": {},
+            "submariner Vulkan": {},
             "Vulkanfeld": {}
           },
           "Vorhersage von Vulkanausbrüchen": {
@@ -134,15 +140,16 @@
           "Tsunamiursachen": {
             "unterseeischen Erdbeben": {},
             "Hineinrutschen großer Erd- und Gesteinsmassen ins Wasser": {},
-            "künstlich hervorgerufenen Explosionen":{},
+            "künstlich hervorgerufenen Explosionen": {},
             "Einschlag eines Himmelskörpers": {}
-        },
+          },
           "Tsunamigefahrenzonen": {
             "Erdbeben im Indischen Ozean 2004": {},
-            "Seebeben vor Java Juli 2006": {}},
-          "Tsunamischutz": {"Frühwarnsystem im Japan": {},
+            "Seebeben vor Java Juli 2006": {}
+          },
+          "Tsunamischutz": {
+            "Frühwarnsystem im Japan": {},
             "Malaysian National Tsunami Early Warning System (MNTEWS)": {}
-
           }
         }
       },
@@ -161,13 +168,11 @@
             "hohe Windgeschwindigkeit": {},
             "Hurrikanzentrum": {}
           }
-
         },
         "Tornados": {
           "Tornadofolgen": {
-            "umgestürzte Bäume":{},
+            "umgestürzte Bäume": {},
             "abgerissene Stromleitung": {}
-
           },
           "Tornado in Alabama": {},
           "Tornadoerkennung": {
@@ -175,27 +180,28 @@
             "Trichter (Windhosen)": {},
             "Fujita-Skala": {}
           }
-
-
-
         },
         "Stürme": {},
         "Dürren": {},
         "Waldbrände": {
           "Waldbrandgefahr": {}
         },
-        "Hagelstürme": {}},
+        "Hagelstürme": {}
+      },
       "Hydrologische": {
         "Überschwemmungen": {},
         "Schneestürme": {},
         "Lawinen": {
           "Lawinenauslöser": {
             "Schwachschicht": {
-              "Schneebrett": {}},
+              "Schneebrett": {}
+            },
             "meschliche Aktivitäten": {
-              "Schneeschuhwanderer": {} },
+              "Schneeschuhwanderer": {}
+            },
             "Gleitschneelawinen": {},
-            "Lockerschneelawinen": {}},
+            "Lockerschneelawinen": {}
+          },
           "Schneedecke": {
             "große Temperaturuntteschiede": {},
             "Schneekörner": {
@@ -255,7 +261,8 @@
             "Niederschlag": {},
             "Wind": {}
           }
-        }},
+        }
+      },
       "Klimabedingte": {
         "Extremwetterereignisse": {
           "Hitzewellen": {
@@ -267,7 +274,11 @@
                   "Herausforderung während Hitzewellen": {
                     "personalmangel": {},
                     "Wasserknappheit": {
-                      "Niedrigwasser": {}}}}},
+                      "Niedrigwasser": {}
+                    }
+                  }
+                }
+              },
               "Maßnahmen gegen Hitze": {
                 "Hitzeschutzplan": {
                   "Trinkwasserbrunnen": {},
@@ -276,15 +287,25 @@
                   "Seniorenbesuche": {},
                   "Kühlsäle": {},
                   "Tierschutz": {
-                    "Eis für Vierbeiner": {}},
-                  "Klimaanlage installieren": {"Sommergrippe": {}}},
+                    "Eis für Vierbeiner": {}
+                  },
+                  "Klimaanlage installieren": {
+                    "Sommergrippe": {}
+                  }
+                },
                 "Maßnahmen für Begrünung uns Schattierung": {
                   "mehr Bäume pflanzen": {},
                   "Hagelschutznetze": {
-                    "gegen Sonnebrand für Bäume": {}}}},
+                    "gegen Sonnebrand für Bäume": {}
+                  }
+                }
+              },
               "Hitze- & Trokcenheitfolgen": {
                 "Hochwasser": {
-                  "Starkregen": {"Flut": {}}},
+                  "Starkregen": {
+                    "Flut": {}
+                  }
+                },
                 "Hitzeerkrankungen": {
                   "Kreislaufbeschwerden": {},
                   "Magen-Darm-Infektionen": {},
@@ -293,7 +314,8 @@
                   "Hitzekrämpfe": {},
                   "fehlende Thermoregulation": {},
                   "Wärmebelastung": {},
-                  "Schlafprobleme": {}},
+                  "Schlafprobleme": {}
+                },
                 "Natur- und Landwirtschaft": {
                   "Grundwasserspiegel sinkt": {},
                   "Dürren": {},
@@ -309,31 +331,62 @@
                   "Blaualgenplagen": {},
                   "gestresste Bäume und Pflanzen": {},
                   "ausgetrockneter Boden": {},
-                  "Gefahr von Waldbränden": {}}}}},
+                  "Gefahr von Waldbränden": {}
+                }
+              }
+            }
+          },
           "Starkregen": {},
-          "Stürme": {}},
+          "Stürme": {}
+        },
         "Biologische": {
           "Insektenplagen": {},
-          "Epidemien": {}}}},
+          "Epidemien": {}
+        }
+      }
+    },
     "Beweltigung von Katastrophen": {
       "Katastrophenvorsorge und -planung": {
-        "Frühwarnsystem": {},
+        "Frühwarnsystem": {
+          "SMS-Warnsystem": {},
+          "Deiche für Küstenstädte": {},
+          "Erdbebenfrühwarnung": {}
+        },
         "Evakuierung": {},
         "Risikobewertung": {},
         "Notfallplan": {},
-        "Katastrophenschutzübung": {},
+        "Katastrophenschutzübung": {
+          "Trainingsprogramme für Bevölkerung": {}
+        },
         "Katastrophenmanagement": {}
       },
       "Rettung und Soforthilfe": {
-        "Rettungseinsatz": {},
+        "Rettungseinsatz": {
+          "Hilfsteransport": {},
+          "Deutsche GeoForschungsZentrum": {},
+          "RKT (Regensburger Krankentransport)": {},
+          "Retungsorganisation Weißhelme": {},
+          "Türkischer Roter Halbmond (Hilfsorganisation)": {}
+        },
         "Notfallvorsorge": {},
-        "Opferhilfe": {},
-        "Nothilfe": {}
+        "Opferhilfe": {
+          "schnelle Visavergabe": {
+            "Flüchtlichgsorganisationen": {}
+          },
+          "Versorgung von Überlebenden und Verletzten": {}
+        },
+        "Nothilfe": {
+          "Notunterkünfte": {},
+          "Sach- und Geldspende": {},
+          "Hilfsgüter": {}
+        }
       },
       "Langfristige Maßnahmen und Wiederaufbau": {
         "Schadensbegrenzung": {},
         "Hilfsmaßnahmen": {},
-        "Wiederaufbau": {},
+        "Wiederaufbau": {
+          "Gebäudeversicherung": {}
+        },
         "Katastrophenschaden": {}
       },
       "Koordination und Organisation": {
@@ -341,5 +394,6 @@
         "Katastrophenschutz": {},
         "Krisenmanagement": {}
       }
-    }}
+    }
+  }
 }
