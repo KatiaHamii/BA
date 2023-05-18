@@ -1,7 +1,7 @@
 {
-  "Naturkatastrophe (ungewöhnliche Naturereignisse)": {
+  "Naturkatastrophe": {
     "Arten von Naturkatastrophen": {
-      "Geologische (Endogene/tektonische)": {
+      "Geologische": {
         "Erdbeben": {
           "Erdbebenphänomene": {
             "Erdbebebnschwam/Schwarmbeben": {
@@ -16,7 +16,7 @@
             "Hypozentrum": {},
             "Vorbeben": {}
           },
-          "Erdbebenursachen": {
+          "Erdbebenurschen": {
             "Erdkruste": {
               "Tiefherdbeben": {}
             },
@@ -42,8 +42,7 @@
               "Sachschäden durch Erdbeben": {},
               "Gebäudezerstörung durch Erdbeben": {},
               "Infrastrukturschäden durch Erdbeben": {},
-              "witschaftliche Schäden": {},
-              "Erdbeben-Suche": {}
+              "witschaftliche Schäden": {}
             },
             "Erdbebenopfer": {
               "Anzahl Erdbebenbetroffenen": {
@@ -90,8 +89,7 @@
           "Erdbebenschutzmaßnahmen": {
             "EU-Satellitensystem Copernicus": {},
             "bauen erdbebensichere Gebäude": {},
-            "bauvorschrifte für erdbebensicheres/erdbebenreches Bauen": {},
-            "Erdbeben-Monitoring-Dienst": {}
+            "bauvorschrifte für erdbebensicheres/erdbebenreches Bauen": {}
           }
         },
         "Vulkanausbruch": {
@@ -137,7 +135,7 @@
             "Vulkanausbruch auf La Palma": {}
           }
         },
-        "Tsunami": {
+        "Tsunamis": {
           "Abfolge besonders langer Wasserwellen": {},
           "Tsunamiursachen": {
             "unterseeischen Erdbeben": {},
@@ -171,62 +169,28 @@
             "Hurrikanzentrum": {}
           }
         },
-        "Tornado  (Wind-/Wasserhose, Großtrombe)": {
-          "Mesozyklonale Tornados": {
-            " <<-----Hagel": {},
-            "Sturzregen": {},
-            "Gewitterfallböen": {}
-          },
-          "Nicht-mesozyklonale Tornados": {},
+        "Tornados": {
           "Tornadofolgen": {
             "umgestürzte Bäume": {},
             "abgerissene Stromleitung": {}
           },
-          "Tornadoursachen": {
-            "Superzellen (mehrere Gewitterzellen(": {
-              "Auf- und Abwinde": {
-                "->>> Starkregen": {}
-              }
-            }
-          },
+          "Tornado in Alabama": {},
           "Tornadoerkennung": {
-            "Luftwirbel ": {},
             "rotierende Luftmasse": {},
-            "errinert an Trichter": {},
-            "Fujita-Skala": {},
-            "TORRO-Skala": {}
+            "Trichter (Windhosen)": {},
+            "Fujita-Skala": {}
           }
         },
-        "Dürre (Trockenheit )": {
-          "verursacht durch Hitze": {},
-          "Typologie von Dürreereignissen": {
-            "meteorologische Dürre": {},
-            "hydrologische Dürre": {},
-            "landwirtschaftliche Dürre": {},
-            "sozio-ökonomische Dürre": {}
-          },
-          "Dürreperiode": {},
-          "Palmer-Dürre-Index": {},
-          "Folgen von Dürren": {
-            "geringere Ernten, hohe Preise für die geernteten Güter (extern)": {},
-            "Engpässe in der Stromversorgung": {},
-            " als Folge--->>Waldbrand": {},
-            "Bodenerosion": {},
-            "schlimmste Dürre des Jahrtausends, Deutschland,1540": {}
-
-          }
+        "Stürme": {},
+        "Dürren": {},
+        "Waldbrände": {
+          "Waldbrandgefahr": {}
         },
-        "Waldbrand (Flurbrand, Vegetationsbrand)": {
-          "Waldbrandgefahr": {},
-          "Waldbrand-Gefahrenstufe": {},
-          "waldbrand-statistik": {},
-          "waldbrand-beobachtungssystem": {"Waldbrandüberwachungsflüge": {}},
-          "waldbrand-jahr": {},
-          "Waldbrandausrüstung": {}
-        }
+        "Hagelstürme": {}
       },
       "Hydrologische": {
         "Überschwemmungen": {},
+        "Schneestürme": {},
         "Lawinen": {
           "Lawinenauslöser": {
             "Schwachschicht": {
@@ -303,6 +267,7 @@
         "Extremwetterereignisse": {
           "Hitzewellen": {
             "Hitze": {
+              "Regen": {},
               "Trokenheit": {
                 "Hitzeperiode": {
                   "Hitzebelastung": {},
@@ -324,7 +289,6 @@
                   "Tierschutz": {
                     "Eis für Vierbeiner": {}
                   },
-                  "Sonnencreme mit hohem Lichtschutzfaktor": {},
                   "Klimaanlage installieren": {
                     "Sommergrippe": {}
                   }
@@ -337,6 +301,11 @@
                 }
               },
               "Hitze- & Trokcenheitfolgen": {
+                "Hochwasser": {
+                  "Starkregen": {
+                    "Flut": {}
+                  }
+                },
                 "Hitzeerkrankungen": {
                   "Kreislaufbeschwerden": {},
                   "Magen-Darm-Infektionen": {},
@@ -367,86 +336,84 @@
               }
             }
           },
-          "Hochwasser": {"Überschwemmung": {}},
-          "Flut": {"Flutwelle": {},
-            "Sturmflut": {}
-          },
-          "Starkregen (Dauerregen)": {
-            "Starkregenfall": {}, "Starkgewitter": {},
-            "Starkniederschläge": {}
-          },
-          "Sturm (Orkan)": {"Hagelsturm": {},"Schneesturm": {}, "Sandsturm": {}
+          "Unwetter": {
+            "Starkregen": {
 
+            },
+          "Sturm": {
+          }
           }
         },
         "Biologische": {
-          "Insektenplagen": {
-            "Schädlingsplagen (Heuschreckeneinfall)": {}
-          },
+          "Insektenplagen": {},
           "Epidemien": {}
         }
       }
     },
-    "Beweltigung von Katastrophen": {
-      "Katastrophenvorsorge und -planung": {
-        "Frühwarnsystem": {
-          "Wetterdienstberichte": {},
-          "SMS-Warnsystem": {},
-          "Deiche für Küstenstädte": {},
-          "Erdbebenfrühwarnung": {},
-          "Luftrettungsstaffel": {"Deutscher Flugbeobachtungsdienst, Luftrettungsstaffel Bayern": {}},
-          "intakte Wälder": {},
-          "Natürliche Auen": {}
-        },
-        "Evakuierung": {
-          "Evakuierungstrffpunkt finden": {},
-          "Evakuierungsplan": {},
-          "rettungsarbeiten": {}
-        },
-        "Risikobewertung": {},
-        "Notfallplan": {},
-        "Katastrophenschutzübung": {
-          "Trainingsprogramme für Bevölkerung": {}
-        },
-        "Katastrophenmanagement": {
-          " Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK)": {}
-        }
+    "Katastrophenvorsorge und -planung": {
+      "Frühwarnsystem": {
+        "SMS-Warnsystem": {},
+        "Deiche für Küstenstädte": {},
+        "Erdbebenfrühwarnung": {},
+        "KI-Warnsysteme für Unwetterwarnung": {}
       },
-      "Rettung und Soforthilfe": {
-        "Rettungseinsatz": {
-          "Hilfsteransport": {},
-          "Deutsche GeoForschungsZentrum": {},
-          "RKT (Regensburger Krankentransport)": {},
-          "Retungsorganisation Weißhelme": {},
-          "Türkischer Roter Halbmond (Hilfsorganisation)": {}
-        },
-        "Notfallvorsorge": {},
-        "Opferhilfe": {
-          "schnelle Visavergabe": {
-            "Flüchtlichgsorganisationen": {}
-          },
-          "Versorgung von Überlebenden und Verletzten": {}
-        },
-        "Nothilfe": {
-          "Notunterkünfte": {},
-          "Sach- und Geldspende": {},
-          "Hilfsgüter": {}
-        }
+      "Evakuierung": {
+        "Evakuierungstreffpunkt finden": {},
+        "Evakuierungszentrum": {},
+        "Evakuierungszone": {},
+        "Evakuierungsaufforderungen (Evakuierungsbefehle)": {}
       },
-      "Langfristige Maßnahmen und Wiederaufbau": {
-        "Schadensbegrenzung": {},
-        "Hilfsmaßnahmen": {},
-        "Wiederaufbau": {
-          "Gebäudeversicherung": {}
-        },
-        "Katastrophenschaden": {}
+      "Brandschutz": {"vorbeugender Brandschutz": {}},
+      "Notfallplan": {
+         "Evakuierungsplan": {},
+        "Verpflegung, Strom- und Trinkwasserversorgung": {}
       },
-      "Koordination und Organisation": {
-        "Krisenreaktion": {},
-        "Katastrophenschutz": {},
-        "Krisenmanagement": {}
+      "Katastrophenschutzübung": {
+        "Trainingsprogramme für Bevölkerung": {}
+      },
+      "Katastrophenmanagement": {
+        "Katastrophenschutzgesetze": {},
+         "Katastrophenschutzbehörde": {},
+        "EU-Katastrophenschutzverfahren": {}
       }
+    },
+    "Rettung und Soforthilfe": {
+      "Rettungseinsatz": {
+        "Hilfsteransport": {},
+        "Deutsche GeoForschungsZentrum": {},
+        "RKT (Regensburger Krankentransport)": {},
+        "Retungsorganisation Weißhelme": {},
+        "Türkischer Roter Halbmond (Hilfsorganisation)": {}
+      },
+      "Opferhilfe": {
+        "schnelle Visavergabe": {
+          "Flüchtlichgsorganisationen": {}
+        },
+        "Versorgung von Überlebenden und Verletzten": {},
+        "medizinische Versorgung": {}
+      },
+      "Nothilfe": {
+        "Notunterkünfte": {},
+        "Sach- und Geldspende": {},
+        "Hilfsgüter": {}
+      }
+    },
+    "Langfristige Maßnahmen und Wiederaufbau": {
+      "Schadensbegrenzung": {},
+      "Hilfsmaßnahmen": {},
+      "Wiederaufbau": {
+        "Sach- und Wohngebäudeversicherung": {}
+      },
+      "Katastrophenschaden": {
+        "entwurzelte Bäume": {}, "Gebäudeschäden (beschädigte Dacher)": {}, "überfluttete Straßen": {},
+        "Sachschäden": {}, "Behinderungen im Bahn- und Straßenverkehr": {}
+      }
+    },
+    "Koordination und Organisation": {
+      "Krisenreaktion": {},
+      "Katastrophenschutz": {},
+      "Krisenmanagement": {}
+    }
     }
   }
-}
 
