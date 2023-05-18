@@ -14,8 +14,7 @@ print("Current working directory:", cwd)
 lemmatizer = WordNetLemmatizer()
 
 # Tokenize the corpus
-with open('/Users/kateryna_hamii/Bachelorarbeit/university/WiSe2022-2023/Bachelorarbeit/Crowler/BR/output'
-          '/corpus_lemmatized/lemmatized_corpus_Waldbrände.txt', 'r') as file:
+with open('/Users/kateryna_hamii/Bachelorarbeit_v2_fromGit/Crowler/BR/output/CorpusItself/combined_text.txt', 'r') as file:
     corpus = file.read().replace('\n', ' ').lower()
 
 additional_stopwords = ['ab', 'ansonsten', 'außer', 'etwa', 'ganzen', 'irgend', 'irgendwo', 'je', 'jemals', 'jemand',
@@ -70,12 +69,12 @@ bigrm = nltk.bigrams(cleaned_words)
 
 bigrm = [tuple(sorted(list(b))) for b in bigrm]
 
-erd_bigrm = [b for b in bigrm if 'brände'in b[0] or 'brände' in b[1]]
+erd_bigrm = [b for b in bigrm if 'dürre'in b[0] or 'dürre' in b[1]]
 fdist = nltk.FreqDist(erd_bigrm)
 
 csv_header = ['Word', 'Frequency']
 
-with open('../BR/output/lists_with_frequencies/freq_dict_lemmatized/freq_dist_combined_text_lemmatized_waldbrände.csv', 'w',
+with open('../BR/output/lists_with_frequencies/freq_dict_lemmatized/freq_dist_combined_text_lemmatized_dürre.csv', 'w',
           encoding='utf-8') as csvfile:
     csvwriter = csv.writer(csvfile, quoting=csv.QUOTE_NONNUMERIC)
     csvwriter.writerow(csv_header)
