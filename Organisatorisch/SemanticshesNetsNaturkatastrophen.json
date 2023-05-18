@@ -1,5 +1,5 @@
 {
-  "Naturkatastrophe": {
+  "Naturkatastrophe (ungewöhnliche Naturereignisse)": {
     "Arten von Naturkatastrophen": {
       "Geologische": {
         "Erdbeben": {
@@ -174,14 +174,12 @@
             "umgestürzte Bäume": {},
             "abgerissene Stromleitung": {}
           },
-          "Tornado in Alabama": {},
           "Tornadoerkennung": {
             "rotierende Luftmasse": {},
             "Trichter (Windhosen)": {},
             "Fujita-Skala": {}
           }
         },
-        "Stürme": {},
         "Dürren": {},
         "Waldbrände": {
           "Waldbrandgefahr": {}
@@ -352,7 +350,10 @@
           "Deiche für Küstenstädte": {},
           "Erdbebenfrühwarnung": {}
         },
-        "Evakuierung": {},
+        "Evakuierung": {
+          "Evakuierungstrffpunkt finden": {},
+          "Evakuierungsplan": {}
+        },
         "Risikobewertung": {},
         "Notfallplan": {},
         "Katastrophenschutzübung": {
