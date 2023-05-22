@@ -2,7 +2,7 @@ import json
 import csv
 
 # JSON file path
-json_file_path = 'SemanticshesNetsNaturkatastrophen.json'
+json_file_path = 'SemanticshesNetsNaturkatastrophen(1).json'
 
 # CSV file path
 csv_file_path = 'SemanticshesNetsNaturkatastrophen.csv'
