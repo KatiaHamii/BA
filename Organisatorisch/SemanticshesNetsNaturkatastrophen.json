@@ -1,6 +1,6 @@
 {
   "Naturkatastrophe (ungewöhnliche Naturereignisse)": {
-    "Arten von Naturkatastrophen": {
+    "Art von Naturkatastrophe": {
       "Geologische (Endogene/tektonische)": {
         "Erdbeben": {
           "Erdbebenphänomene": {
@@ -166,13 +166,13 @@
             "Überschwemmung": {}
           },
           "Hurrikaneigenschaften": {
-            "Wirbelsturm": {},
+            "Wirbelsturm": { "Zyklon": { "im Indischen Ozean und Südpazifik": {}}},
             "hohe Windgeschwindigkeit": {},
             "Hurrikanzentrum": {}
           }
         },
         "Tornado  (Wind-/Wasserhose, Großtrombe)": {
-          "Mesozyklonale Tornados": {
+          "Mesozyklonale Tornado": { "Meso-Zyklon": {},
             " <<-----Hagel": {},
             "Sturzregen": {},
             "Gewitterfallböen": {}
@@ -385,7 +385,8 @@
           },
           "Epidemien": {}
         }
-      }
+      },
+      "Extraterrestrische": {}
     },
     "Beweltigung von Katastrophen": {
       "Katastrophenvorsorge und -planung": {
@@ -394,14 +395,16 @@
           "SMS-Warnsystem": {},
           "Deiche für Küstenstädte": {},
           "Erdbebenfrühwarnung": {},
-          "Luftrettungsstaffel": {"Deutscher Flugbeobachtungsdienst, Luftrettungsstaffel Bayern": {}},
+          "Luftrettungsstaffel": {
+            "Deutscher Flugbeobachtungsdienst, Luftrettungsstaffel Bayern": {}
+          },
           "intakte Wälder": {},
           "Natürliche Auen": {}
         },
         "Evakuierung": {
           "Evakuierungstrffpunkt finden": {},
-          "Evakuierungsplan": {},
-          "rettungsarbeiten": {}
+          "Evakuierungsplan": {}
+
         },
         "Risikobewertung": {},
         "Notfallplan": {},
@@ -409,7 +412,7 @@
           "Trainingsprogramme für Bevölkerung": {}
         },
         "Katastrophenmanagement": {
-          " Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK)": {}
+          "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK)": {}
         }
       },
       "Rettung und Soforthilfe": {
