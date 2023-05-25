@@ -1,0 +1,513 @@
+{
+  "0 Naturkatastrophe": {
+    "1 Arten von Naturkatastrophen": {
+      "6 Geologische": {
+        "28 Erdbeben": {
+          "80 Erdbebenphänomene": {
+            "Erdbebebnschwam/Schwarmbeben": {},
+            "Seismische Aktivität": {},
+            "Nachbeben": {},
+            "Epizentrum": {},
+            "Hauptbeben": {},
+            "Hypozentrum": {},
+            "Vorbeben": {},
+            "Seebeben": {},
+            "Erdstoß": {}
+          },
+          "81 Erdbebenurschen": {
+            "Erdkruste": {
+              "Tiefherdbeben": {}
+            },
+            "plaektonische Prozesse": {
+              "kontinenteplattendrift": {
+                "Bewegung von Lithosphärenplatten": {
+                  "Spreizungszone": {},
+                  "Subduktion": {},
+                  "Transformverwerfung": {}
+                }
+              }
+            },
+            "Verwerfung": {
+              "anthropogene Erdbeben": {
+                "Sttausee-Erdbeben": {
+                  "Wnchuan-Erdbeben, China, 2008": {}
+                }
+              }
+            }
+          },
+          "82 Erdbebenfolgen": {
+            "Erdbebenschäden": {
+              "Gebäudezerstörung durch Erdbeben": {},
+              "Infrastrukturschäden durch Erdbeben": {},
+              "witschaftliche Schäden": {}
+            },
+            "Erdbebenopfer": {
+              "Erdbebensuche": {},
+              "Anzahl Erdbebenbetroffenen": {
+                "Erdbeben-Tote": {},
+                "Verletzte in Syrien": {},
+                "Vermisste im Erdbebengebiet": {}
+              }
+            }
+          },
+          "83 Erdbebenforschung": {
+            "Seismologie": {
+              "Messung": {
+                "Seismograph": {
+                  "Erdbebenwellen": {
+                    "P-Wellen": {},
+                    "S-Wellen": {},
+                    "Oberflächenwellen": {}
+                  }
+                },
+                "Erdbebenstärke": {
+                  "Intensität": {
+                    "Mercalliskala": {},
+                    "MSK-Skala (EMS-Skala)": {}
+                  },
+                  "Magnitude": {
+                    "Richterskala": {},
+                    "Moment-Magnituden-Skala": {}
+                  }
+                }
+              }
+            }
+          },
+          "84 Erdbebengefährdung": {
+            "Risiko": {},
+            "Erdbebengebiet (Erdbebenrisikozone)": {
+                "Erdbeben in Türkein": {},
+                "Erdbeben in Syrien": {},
+                "Erdbeben im Indischen Ozean 2004": {},
+                "Seebeben vor Java Juli 2006": {},
+                "Großes Alaska-Beben": {}
+
+            }
+          },
+          "85 Erdbebenschutzmaßnahmen": {
+            "EU-Satellitensystem Copernicus": {},
+            "bauen erdbebensichere Gebäude": {},
+            "bauvorschrifte für erdbebensicheres/erdbebenreches Bauen": {},
+            "Erdbeben-Monitoring-Dienst": {}
+          }
+        },
+        "29 Vulkanausbruch": {
+          "86 Beruhigung der Lage:Prognose": {
+            "Entleerung der Magma-Krater": {},
+            "Schlotverschließung": {}
+          },
+          "87 Vulkanphänomene": {
+            "Krater (Caldera)": {},
+            "Magma (Lavafluss, Lavastrom)": {},
+            "Eruption": {
+              "strombolianischen Eruption": {},
+              "plinianischen Eruption": {},
+              "Eruptionssäule": {},
+              "vulkanische Bomben": {}
+            }
+          },
+          "88 von Volkan ausgelöste Ereignisse": {
+            "Lahar (Schlamm- und Schuttströme)": {},
+            "pyroklastische Ströme (Glühlawine)": {},
+            "Gletscher": {},
+            "Tsunami": {},
+            "Gerölllawine": {}
+          },
+          "89 Vulkantyp": {
+            "Schichtvulkan": {},
+            "Schildvulkan": {},
+            "komplexer Vulkan": {},
+            "Schlackenkegel": {},
+            "Spaltenvulkan": {},
+            "Kraterreihe": {},
+            "Maar": {},
+            "submariner Vulkan": {},
+            "Vulkanfeld": {}
+          },
+          "90 Vorhersage von Vulkanausbrüchen": {
+            "Aufzeichnung seismischer Aktivität (vulkanischer Tremor)": {},
+            "Geodätische Überwachun": {},
+            "Messung gravimetrischer und magnetometrischer Veränderungen": {},
+            "Erfassung von Temperaturerhöhungen": {}
+          },
+          "91 Betroffene Gebiete": {
+            "Indonesien überzogen von Vulkanen (Hauptinsel Java)": {},
+            "Vulkanausbruch auf La Palma": {}
+          }
+        },
+        "30 Tsunamis": {
+          "92 Abfolge besonders langer Wasserwellen": {},
+          "93 Tsunamiursachen": {
+            "unterseeischen Erdbeben": {},
+            "Hineinrutschen großer Erd- und Gesteinsmassen ins Wasser": {},
+            "künstlich hervorgerufenen Explosionen": {},
+            "Einschlag eines Himmelskörpers": {}
+          },
+          "94 Tsunamigefahrenzonen": {
+            "Erdbeben im Indischen Ozean 2004": {},
+            "Seebeben vor Java Juli 2006": {}
+          },
+          "95 Tsunamischutz": {
+            "Frühwarnsystem im Japan": {},
+            "Malaysian National Tsunami Early Warning System (MNTEWS)": {}
+          }
+        }
+      },
+      "7 Meteorologische": {
+        "31 Hurrikan": {
+          "96 Hurrikanfolgen": {
+            "Sturmflut": {},
+            "Windbruch": {},
+            "Küstenerosion": {},
+            "Erdrutschen": {},
+            "Sturzfluten": {},
+            "Überschwemmung": {}
+          },
+          "97 Hurrikaneigenschaften": {
+            "Wirbelsturm": {
+              "Zyklon": {
+                "im Indischen Ozean und Südpazifik": {}
+              }
+            },
+            "hohe Windgeschwindigkeit": {},
+            "Hurrikanzentrum": {}
+          }
+        },
+        "32 Tornado  (Wind-/Wasserhose, Großtrombe)": {
+          "98 Mesozyklonale Tornado": {
+            "Meso-Zyklon": {},
+            "Sturzregen": {},
+            "Gewitterfallböen": {}
+          },
+          "99 Nicht-mesozyklonale Tornados": {},
+          "100 Tornadoursachen": {
+            "Superzellen (mehrere Gewitterzellen(": {
+              "Auf- und Abwinde": {
+                "->>> Starkregen": {}
+              }
+            }
+          },
+          "101 Tornadofolgen": {
+            "umgestürzte Bäume": {},
+            "abgerissene Stromleitung": {}
+          },
+          "102 Tornado in Alabama": {},
+          "103 Tornadoerkennung": {
+            "Luftwirbel ": {},
+            "rotierende Luftmasse": {},
+            "Trichter (Windhosen)": {},
+            "Fujita-Skala": {},
+            "TORRO-Skala": {}
+          }
+        },
+        "33 Dürre (Trockenheit )": {
+          "Dürreereignis": {
+            "Dürremonitor": {},
+            "Dürre-Notstand": {},
+            "Dürregefahr": {},
+            "Dürresituation": {},
+            "Dürreproblem": {},
+            "ürreszenario": {},
+            "dürrebedingte": {}
+          },
+          "105 Typologie von Dürreereignissen": {
+            "meteorologische Dürre": {},
+            "hydrologische Dürre": {},
+            "landwirtschaftliche Dürre": {},
+            "sozio-ökonomische Dürre": {}
+          },
+          "106 Dürreperiode": {
+            "Dürrejahr": {},
+            "Dürresommer": {}
+          },
+          "Palmer-Dürre-Index": {},
+          "Dürreschäden": {
+            "geringere Ernten, hohe Preise für die geernteten Güter (extern)": {},
+            "Engpässe in der Stromversorgung": {},
+            "Bodenerosion": {},
+            "schlimmste Dürre des Jahrtausends, Deutschland,1540": {}
+          }
+        },
+        "34 Waldbrand (Flurbrand, Vegetationsbrand)": {
+          "Waldbrandgefahr": {},
+          "Waldbrand-Gefahrenstufe": {},
+          "waldbrand-statistik": {},
+          "waldbrand-beobachtungssystem": {"Waldbrandüberwachungsflüge": {}},
+          "waldbrand-jahr": {},
+          "Waldbrandausrüstung": {}
+        }
+      },
+      "8 Hydrologische": {
+        "35 Lawinen": {
+          "Lawinenauslöser": {
+            "Schwachschicht": {
+              "Schneebrett": {}
+            },
+            "meschliche Aktivitäten": {
+              "Schneeschuhwanderer": {}
+            },
+            "Gleitschneelawinen": {},
+            "Lockerschneelawinen": {}
+          },
+          "Schneedecke": {
+            "große Temperaturuntteschiede": {},
+            "Schneekörner": {
+              "Schneekristalle": {}
+            },
+            "vereiste Rutschfläche": {},
+            "Schneeprofil": {}
+          },
+          "Sicherheitausrüstung": {
+            "Lawinenairbags": {},
+            "Lawinenschaufel": {},
+            "Lawinensonde": {},
+            "Lawinenverschüttetensuchgerät (LVS)": {},
+            "Lawinen-Rucksack": {
+              "Luftkissen": {}
+            }
+          },
+          "Lawinendienst": {
+            "Rettungskräfte": {
+              "Lawinenrettungsgruppe": {}
+            }
+          },
+          "Lavinenopfer": {
+            "Verschüttete": {},
+            "Todesopfer nach Lawinenunglück": {},
+            "Erfrorene": {}
+          },
+          "Lawinengefahr": {
+            "Lawinenrisiko": {
+              "Hangneigung": {
+                "Sicherheit": {},
+                "Neigungswinkel": {},
+                "Gradient": {},
+                "Lawinenagbang": {},
+                "Lawinengefahrenstufen": {}
+              }
+            },
+            "Lawinenwarnung": {
+              "Berechnung von Lawinenwarnzonen": {},
+              "Lawinenwarnstufe": {
+                "Lawinenrisikomanagment": {}
+              }
+            }
+          }
+        }
+      },
+      "9 Klimabedingte": {
+        "36 Klimawandel": {},
+        "37 Extremwetterereignisse": {
+          "Hitzewellen": {
+            "Hitze": {
+              "Trokenheit": {
+                "Hitzeperiode": {
+                  "Hitzebelastung": {}
+                }
+              },
+              "Maßnahmen gegen Hitze": {
+                "Hitzeschutzplan": {
+                  "Trinkwasserbrunnen": {},
+                  "regulierte Arbeitszeiten und -bedingungen": {},
+                  "Hitzefrei": {},
+                  "Seniorenbesuche": {},
+                  "Kühlsäle": {},
+                  "Tierschutz": {
+                    "Eis für Vierbeiner": {}
+                  },
+                  "Sonnencreme mit hohem Lichtschutzfaktor": {},
+                  "Klimaanlage installieren": {
+                    "Sommergrippe": {}
+                  }
+                },
+                "Maßnahmen für Begrünung uns Schattierung": {
+                  "mehr Bäume pflanzen": {},
+                  "Hagelschutznetze": {
+                    "gegen Sonnebrand für Bäume": {}
+                  }
+                }
+              },
+              "Hitze- & Trokcenheitfolgen": {
+                "Hitzeerkrankungen": {
+                  "Kreislaufbeschwerden": {},
+                  "Magen-Darm-Infektionen": {},
+                  "Sonnenstich": {},
+                  "Hitzekollaps-/schlag": {},
+                  "Hitzekrämpfe": {},
+                  "fehlende Thermoregulation": {},
+                  "Wärmebelastung": {},
+                  "Schlafprobleme": {}
+                },
+                "Natur- und Landwirtschaft": {
+                  "sinkendes Grundwasserspiegel": {},
+
+                  "Extremer Schneefall": {
+                    "Personalmangel": {}
+                  }
+                },
+                "Auswirkung auf Erntejahr": {
+                  "Auswirkung auf Forstwirtschaft": {
+                    "erschwete Bekämpfung des Borkenkäfers": {},
+                    "Wasserknappheit": {
+                      "Niedrigwasser": {}
+                    },
+                    "ausgetroknete Flussläufe": {},
+                    "Blaualgenplagen": {},
+                    "gestresste Bäume und Pflanzen": {},
+                    "ausgetrockneter Boden": {},
+                    "Gefahr von Waldbränden": {}
+                  }
+                }
+              }
+            },
+            "Hochwasser": {
+              "Überschwemmung": {},
+              "Flutkatastrophe": {
+                "Überflutung": {
+                  "Flutwelle": {},
+                  "Sturmflut": {},
+                  "überflutet": {},
+                  "Flutpolder": {},
+                  "Überflutungsgefahr": {},
+                  "flutgeschädigten": {
+                    "überflutete": {}
+                  },
+                  "Fluthilfe": {},
+                  "Flutopfer": {},
+                  "Flutgebiet": {
+                    "Überflutungsflächen": {}
+                  },
+                  "Sturzflut": {
+                    "sturzflutartiges": {}
+                  }
+                }
+              },
+              "Unwetter": {
+                "Starkregen (Dauerregen)": {
+                  "Starkregenfall": {},
+                  "Starkgewitter": {},
+                  "Starkniederschläge": {}
+                },
+                "Sturmkatastrophe (Orkan)": {
+                  "Sturm Sabine": {},
+                  "Hagelsturm": {},
+                  "Schneesturm": {},
+                  "Sandsturm": {},
+                  "Strumschaden": {},
+                  "Sturmböen": {},
+                  "sturmbedingte": {},
+                  "Sturmwarnung": {
+                    "Sturmintensität": {}
+                  },
+                  "Sturmflutrisiko": {
+                    "Sturmflutgefahr": {},
+                    "Sturmwahrscheinlichkeit": {}
+                  },
+                  "Sturmflutereignis": {}
+                }
+              }
+            }
+          }
+        }
+      },
+      "10 Biologische": {
+        "38 Insektenplagen": {
+          "Schädlingsplagen (Heuschreckeneinfall)": {}
+        },
+        "39 Epidemien": {}
+      },
+      "11 Extraterrestrische": {
+        "40 Meteoriteneinschläge": {}
+      }
+      },
+    "2 Naturkatastrophenursachen": {
+      "12 Erdrutsch ( Bergrutsch) ": {
+        "41 Schwarmlawine": {
+          "Murgang": {}
+        }
+      },
+      "13 Abholzung": {},
+      "14 Erderwärmung": {}
+    },
+    "3 Katastrophenvorsorge und -planung": {
+      "15 Frühwarnsystem": {
+        "42 Wetterdienstberichte": {},
+        "43 SMS-Warnsystem": {},
+        "44 Deiche für Küstenstädte": {},
+        "45 Erdbebenfrühwarnung": {},
+        "46 KI-Warnsysteme für Unwetterwarnung": {},
+        "47 Luftrettungsstaffel": {
+            "Deutscher Flugbeobachtungsdienst, Luftrettungsstaffel Bayern": {}
+          },
+        "48 intakte Wälder": {},
+        "49 Natürliche Auen": {}
+      },
+      "16 Evakuierung": {
+        "50 Evakuierungstreffpunkt finden": {},
+        "51 Evakuierungszentrum": {},
+        "52 Evakuierungszone": {},
+        "53 Evakuierungsaufforderungen (Evakuierungsbefehle)": {}
+      },
+      "17 Notfallplan": {
+         "54 Evakuierungsplan": {}
+      },
+      "18 Katastrophenschutzübung": {
+        "55 Trainingsprogramme für Bevölkerung": {},
+        "56 Brandschutz": {
+          "vorbeugender Brandschutz": {}
+      }
+      },
+      "19 Katastrophenmanagement": {
+        "57 Katastrophenschutz": {
+          "Katastrophenschutzgesetze": {}
+        },
+        "58 Katastrophenschutzbehörde": {
+           "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK)": {}
+         },
+        "59 EU-Katastrophenschutzverfahren": {},
+        "60 Versicherungsschutz": {
+              "Haftversicherungspflicht": {}
+            }
+      }
+    },
+    "4 Rettung und Soforthilfe": {
+      "20 Rettungseinsatz (rettungsarbeiten)" : {
+        "61 Hilfsteransport": {},
+        "62 Deutsche GeoForschungsZentrum": {},
+        "63 RKT (Regensburger Krankentransport)": {},
+        "64 Retungsorganisation Weißhelme": {},
+        "65 Türkischer Roter Halbmond (Hilfsorganisation)": {}
+      },
+      "21 Notfallvorsorge": {},
+      "22 Opferhilfe": {
+        "66 schnelle Visavergabe": {
+          "Flüchtlichgsorganisationen": {}
+        },
+        "67 Versorgung von Überlebenden und Verletzten": {},
+        "68 medizinische Versorgung": {},
+        "69 Verpflegung, Strom- und Trinkwasserversorgung": {}
+      },
+      "23 Nothilfe": {
+        "70 Ausnahmezustand": {},
+        "71 Notunterkünfte": {},
+        "72 Sach- und Geldspende": {},
+        "73 Hilfsgüter": {}
+      }
+    },
+    "5 Langfristige Maßnahmen und Wiederaufbau": {
+      "24 Schadensbegrenzung": {},
+      "25 Hilfsmaßnahmen": {},
+      "26 Wiederaufbau": {
+        "74 Sach- und Wohngebäudeversicherung": {}
+      },
+      "27 Katastrophenschaden": {
+        "75 entwurzelte Bäume": {},
+        "76 Gebäudeschäden (beschädigte Dacher)": {},
+        "77 überfluttete Straßen": {},
+        "78 Sachschäden": {},
+        "79 Behinderungen im Bahn- und Straßenverkehr": {}
+      }
+    }
+  }
+}
+
