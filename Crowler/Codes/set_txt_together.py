@@ -12,5 +12,5 @@ for file in txt_files:
         all_text += f.read()
 
 # write the combined text to a new file
-with open('../BR/output/CorpusItself/combined_text.txt', 'w', encoding='utf-8') as f:
+with open('../BR24/output/CorpusItself/combined_text.txt', 'w', encoding='utf-8') as f:
     f.write(all_text)

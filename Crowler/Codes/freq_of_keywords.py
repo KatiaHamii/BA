@@ -9,7 +9,7 @@ cwd = os.getcwd()
 print("Current working directory:", cwd)
 
 # Laden Sie den Korpus und extrahieren Sie den Text
-with open("../BR/output/CorpusItself/combined_text.txt", "r", encoding="utf-8") as file:
+with open("../BR24/output/CorpusItself/combined_text.txt", "r", encoding="utf-8") as file:
     text = file.read()
 
 # Tokenisieren des Textes und Entfernen von Stoppwörtern

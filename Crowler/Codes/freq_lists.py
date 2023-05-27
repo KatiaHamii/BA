@@ -28,7 +28,7 @@ additional_stopwords = ['ab', 'ansonsten', 'außer', 'etwa', 'ganzen', 'irgend',
 stop_words = set(stopwords.words('german') + additional_stopwords)
 print((stopwords.words('german')))
 
-with open('Crowler/BR/output/CorpusItself/combined_text.txt', 'r') as file:
+with open('Crowler/BR24/output/CorpusItself/combined_text.txt', 'r') as file:
     corpus = file.read().replace('\n', ' ').lower()
 
 # Tokenize the corpus
@@ -36,13 +36,7 @@ words = nltk.word_tokenize(corpus)
 # Exclude stop words, punctuation, and any word shorter than 3 characters
 words = [word for word in words if word not in stop_words and word not in punctuation and len(word) > 2]
 
-# Create the frequency distribution®
 fdist = nltk.FreqDist(words)
-
-# print(fdist.most_common())
-
-# Define a regular expression that matches all words containing "Tsunami" as a substring
-# pattern = re.compile(r'\b\w*erdbeben\w*\b', flags=re.IGNORECASE)
 
 text = ' '.join(words)
 # Find all matches in the text
