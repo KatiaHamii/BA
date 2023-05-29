@@ -54,34 +54,34 @@
             }
           },
           "Erdbebenforschung": {
-              "Erdbebenmessung": {
-                "Seismograph": {
-                  "Erdbebenwelle": {
-                    "P-Welle (Seismische Welle)": {},
-                    "S-Welle ( (Seismische Welle)": {},
-                    "Oberflächenwelle (Seismische Welle)": {}
-                  }
+            "Erdbebenmessung": {
+              "Seismograph": {
+                "Erdbebenwelle": {
+                  "P-Welle (Seismische Welle)": {},
+                  "S-Welle ( (Seismische Welle)": {},
+                  "Oberflächenwelle (Seismische Welle)": {}
+                }
+              },
+              "Erdbebenstärke": {
+                "Intensität": {
+                  "Mercalliskala": {},
+                  "MSK-Skala (EMS-Skala)": {}
                 },
-                "Erdbebenstärke": {
-                  "Intensität": {
-                    "Mercalliskala": {},
-                    "MSK-Skala (EMS-Skala)": {}
-                  },
-                  "Magnitude": {
-                    "Richterskala": {},
-                    "Moment-Magnituden-Skala": {}
-                  }
+                "Magnitude": {
+                  "Richterskala": {},
+                  "Moment-Magnituden-Skala": {}
                 }
               }
-            },
+            }
+          },
           "Erdbebengefährdung": {
             "Risiko": {},
             "Erdbebengebiet": {
-                "Erdbeben in Türkein": {},
-                "Erdbeben in Syrien": {},
-                "Erdbeben im Indischen Ozean 2004": {},
-                "Seebeben vor Java Juli 2006": {},
-                "Großes Alaska-Beben": {}
+              "Erdbeben in Türkein": {},
+              "Erdbeben in Syrien": {},
+              "Erdbeben im Indischen Ozean 2004": {},
+              "Seebeben vor Java Juli 2006": {},
+              "Großes Alaska-Beben": {}
             }
           },
           "Erdbebenschutzmaßnahme": {
@@ -107,7 +107,7 @@
             }
           },
           "von Vulkan ausgelöstes Ereignis": {
-            "Lahar ": {},
+            "Lahar": {},
             "pyroklastischer Strom": {},
             "Gletscher": {},
             "Gerölllawine": {},
@@ -125,9 +125,9 @@
             "Vulkanfeld": {}
           },
           "Vorhersage von Vulkanausbruch": {
-            "Aufzeichnung seismischer Aktivität ": {},
+            "Aufzeichnung seismischer Aktivität": {},
             "Geodätische Überwachung": {},
-            "Messung gravimetrischer und magnetometrischer Veränderungen": {},
+            "Messung gravimetrischer und magnetometrischer Veränderung": {},
             "Erfassung von Temperaturerhöhungen": {}
           },
           "Betroffenes Gebiet": {
@@ -135,7 +135,7 @@
             "Vulkanausbruch auf La Palma": {}
           }
         },
-        "Tsunamis": {
+        "Tsunami": {
           "Abfolge besonders langer Wasserwellen": {},
           "Tsunamiursache": {
             "unterseeisches Erdbeben": {},
@@ -153,7 +153,7 @@
           }
         }
       },
-       "Meteorologische": {
+      "Meteorologische": {
         "Hurrikan": {
           "Hurrikanfolge": {
             "Sturmflut": {},
@@ -182,9 +182,9 @@
           "Nicht-mesozyklonaler Tornado": {},
           "Tornadoursache": {
             "Superzelle": {
-                "Starkregen": {}
-              }
-            },
+              "Starkregen": {}
+            }
+          },
           "Tornadofolge": {
             "umgestürzter Baum": {},
             "abgerissene Stromleitung": {}
@@ -197,7 +197,7 @@
             "TORRO-Skala": {}
           }
         },
-        "Dürre ": {
+        "Dürre": {
           "Hitzewelle": {},
           "Dürreereignis": {
             "Dürremonitor": {},
@@ -219,27 +219,28 @@
             "Dürresommer": {}
           },
           "Palmer-Dürre-Index": {},
-          "Dürrenschaden ": {
-            "geringere Ernten, hohe Preise für die geernteten Güter ": {},
+          "Dürrenschaden": {
+            "geringere Ernten, hohe Preise für geernteten Güter": {},
             "Engpässe in der Stromversorgung": {},
             "Bodenerosion": {},
             "schlimmste Dürre des Jahrtausends, Deutschland, 1540": {},
             "schneearmer Winter": {}
           }
         },
-        "Waldbrand ": {
+        "Waldbrand": {
           "Waldbrandgefahr": {},
           "Waldbrandgefahrenstufe": {},
           "Waldbrandstatistik": {},
           "Waldbrand-Beobachtungssystem": {
-            "Waldbrandüberwachungsflug": {}},
+            "Waldbrandüberwachungsflug": {}
+          },
           "Waldbrandjahr": {},
           "Waldbrandausrüstung": {
             "Waldbrandbekämpfung": {}
           }
         }
       },
-       "Hydrologische": {
+      "Hydrologische": {
         "Lawine": {
           "Naturkatastrophenursache": {},
           "Lawinenauslöser": {
@@ -261,7 +262,7 @@
             "Schneeprofil": {}
           },
           "Sicherheitausrüstung für Skitouren": {
-            "Lawinenairbags": {},
+            "Lawinenairbag": {},
             "Lawinenschaufel": {},
             "Lawinensond": {},
             "Lawinenverschüttetensuchgerät (LVS)": {},
@@ -282,8 +283,10 @@
               "Lawinenkunde": {
                 "Hangneigung: Einschätzung der Lawinengefahr": {
                   "Sicherheit während Skitouren": {},
-                  "Neigungswinkel des Hanges": { "Lawine": {}},
-                  "Gradient": {},
+                  "Neigungswinkel des Hanges": {
+                    "Lawine": {}
+                  },
+                  "Gradient (Meteorologie)": {},
                   "Lawinenabgang": {},
                   "Lawinengefahrenstufe": {}
                 }
@@ -300,15 +303,15 @@
           }
         }
       },
-       "Klimabedingte": {
+      "Klimabedingte": {
         "Klimawandel": {},
         "Extremwetterereignis": {
           "Hitzewelle": {
             "Hitze": {
-                "Hitzeperiode": {
-                  "Hitzebelastung": {}
-                }
-              },
+              "Hitzeperiode": {
+                "Hitzebelastung": {}
+              }
+            },
             "Maßnahme gegen Hitze": {
               "Hitzeschutzplan": {
                 "Trinkwasserbrunnen": {},
@@ -320,7 +323,7 @@
                   "Eis für Vierbeiner": {}
                 },
                 "Sonnencreme mit hohem Lichtschutzfaktor": {},
-                "Klimaanlage installieren": {
+                "Klimaanlage gegen die Hitze": {
                   "Sommergrippe": {}
                 }
               },
@@ -330,34 +333,34 @@
                 }
               }
             },
-            "Hitze- & Trokcenheitfolgen": {
+            "Hitze- & Trokcenheitfolge": {
               "Hitzeerkrankung": {
-                "Kreislaufbeschwerden bei Hitze": {},
+                "Kreislaufbeschwerde bei Hitze": {},
                 "Magen-Darm-Infektion": {},
                 "Sonnenstich": {},
                 "Hitzekollaps-/schlag": {},
-                "Hitzekrämpfe": {},
+                "Hitzekrampf": {},
                 "fehlende Thermoregulation": {},
                 "Wärmebelastung": {},
                 "Schlafproblem": {}
               },
-                "Natur- und Landwirtschaftprobleme während Hitzeperioden": {
-                  "sinkendes Grundwasserspiegel": {}
-                },
-                "Auswirkung auf Erntejahr": {
-                  "Dürrenuswirkung auf Forstwirtschaft": {
-                    "erschwete Bekämpfung des Borkenkäfers": {},
-                    "Wasserknappheit": {
-                      "Niedrigwasser": {}
-                    },
-                    "ausgetroknete Flussläufe": {},
-                    "Blaualgenplagen": {},
-                    "ausgetrockneter Boden": {},
-                    "Gefahr von Waldbränden": {}
-                  }
+              "Natur- und Landwirtschaftprobleme während Hitzeperioden": {
+                "sinkendes Grundwasserspiegel": {}
+              },
+              "Auswirkung auf Erntejahr": {
+                "Dürrenuswirkung auf Forstwirtschaft": {
+                  "erschwete Bekämpfung des Borkenkäfers": {},
+                  "Wasserknappheit": {
+                    "Niedrigwasser": {}
+                  },
+                  "ausgetroknete Flussläufe": {},
+                  "Blaualgenplagen": {},
+                  "ausgetrockneter Boden": {},
+                  "Gefahr von Waldbränden": {}
                 }
               }
-            },
+            }
+          },
           "Hochwasser": {
             "Überschwemmung": {},
             "Starkregen": {},
@@ -365,11 +368,10 @@
               "Überflutung": {
                 "Flutwelle": {},
                 "Sturmflut": {},
-                "überflutet": {},
                 "Flutpolder": {},
                 "Überflutungsgefahr": {},
                 "flutgeschädigten": {
-                  "überflutete": {}
+                  "überflutet": {}
                 },
                 "Fluthilfe": {},
                 "Flutopfer": {},
@@ -382,15 +384,17 @@
               }
             },
             "Unwetter": {
-              "Starkregen ": {
+              "Starkregen": {
                 "Starkregenfall": {},
                 "Starkgewitter": {},
                 "Starkniederschlag": {}
               },
-              "Sturmkatastrophe ": {
+              "Sturmkatastrophe": {
                 "Sturm Sabine": {},
                 "Hagelsturm": {},
-                "Schneesturm": { "Lawine": {}},
+                "Schneesturm": {
+                  "Lawine": {}
+                },
                 "Sandsturm": {},
                 "Strumschaden": {},
                 "Sturmböe": {},
@@ -406,11 +410,11 @@
               }
             }
           }
-          }
-        },
+        }
+      },
       "Biologische": {
         "Insektenplagen": {
-          "Schädlingsplagen ": {}
+          "Schädlingsplagen": {}
         },
         "Epidemie": {}
       },
@@ -419,8 +423,8 @@
           "Tsunami": {}
         }
       }
-      },
-     "Naturkatastrophenursache": {
+    },
+    "Naturkatastrophenursache": {
       "Erdrutsch": {
         "Schwarmlawine": {
           "Murgang": {}
@@ -429,16 +433,16 @@
       "Abholzung": {},
       "Erderwärmung": {}
     },
-     "Katastrophenvorsorge und -planung": {
+    "Katastrophenvorsorge und -planung": {
       "Frühwarnsystem": {
         "Wetterdienstbericht": {},
         "SMS-Warnsystem für Katastrophen": {},
         "Deiche für Küstenstädte": {},
         "Erdbebenfrühwarnung": {},
-        "KI-Warnsysteme für Unwetterwarnung": {},
+        "KI-Warnsystem für Unwetterwarnung": {},
         "Luftrettungsstaffel": {
-            "Deutscher Flugbeobachtungsdienst Luftrettungsstaffel Bayern": {}
-          },
+          "Deutscher Flugbeobachtungsdienst Luftrettungsstaffel Bayern": {}
+        },
         "intakte Wälder": {},
         "Natürliche Auen": {}
       },
@@ -449,46 +453,46 @@
         "Evakuierungsaufforderung": {}
       },
       "Katastrophennotfallplan": {
-         "Evakuierungsplan": {}
+        "Evakuierungsplan": {}
       },
       "Katastrophenschutzübung": {
         "Trainingsprogramm für Bevölkerung": {},
         "Brandschutz": {
           "vorbeugender Brandschutz": {}
-      }
+        }
       },
-       "Katastrophenmanagement": {
+      "Katastrophenmanagement": {
         "Katastrophenschutz": {
           "Katastrophenschutzgesetz": {}
         },
         "Katastrophenschutzbehörde": {
-           "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK)": {}
-         },
+          "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK)": {}
+        },
         "EU-Katastrophenschutzverfahren": {},
-         "Versicherungsschutz": {
-              "Haftversicherungspflicht": {}
-            },
-          "Langfristige Maßnahmen und Wiederaufbau": {
-      "Schadensbegrenzung": {},
-      "Hilfsmaßnahme &  Schadenvorsorge": {},
-      "Wiederaufbau nach Naturkatastrophe": {
-        "Sach- und Wohngebäudeversicherung gegen Naturkatastrophen": {}
-      }
-    }
+        "Versicherungsschutz": {
+          "Haftversicherungspflicht": {}
+        },
+        "Langfristige Maßnahmen und Wiederaufbau": {
+          "Schadensbegrenzung": {},
+          "Hilfsmaßnahme &  Schadenvorsorge": {},
+          "Wiederaufbau nach Naturkatastrophe": {
+            "Sach- und Wohngebäudeversicherung gegen Naturkatastrophen": {}
+          }
+        }
       }
     },
-     "Rettung und Soforthilfe": {
-      "Rettungseinsatz ": {
+    "Rettung und Soforthilfe": {
+      "Rettungseinsatz": {
         "Hilfstransport (Katastrophenhilfe)": {},
         "Deutsche GeoForschungsZentrum": {},
         "RKT (Regensburger Krankentransport)": {},
         "Retungsorganisation Weißhelme": {},
-        "Türkischer Roter Halbmond ": {}
+        "Türkischer Roter Halbmond": {}
       },
       "Notfallvorsorge": {},
       "Opferhilfe": {
         "schnelle Visavergabe": {
-          "Flüchtlichgsorganisationen": {}
+          "Flüchtlichgsorganisation": {}
         },
         "Versorgung von Überlebenden und Verletzten": {},
         "medizinische Versorgung für Natirkatastrophenopfer": {},
@@ -510,6 +514,6 @@
       "Sachschaden": {},
       "Unwetterstörung Bahn- und Straßenverkehr": {}
     }
-    }
   }
+}
 
