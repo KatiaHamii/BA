@@ -1,0 +1,3364 @@
+{
+  "nodes": [
+    {
+      "id": 0,
+      "word": "Naturkatastrophe"
+    },
+    {
+      "id": 1,
+      "word": "Art von Naturkatastrophe",
+      "parentId": 0
+    },
+    {
+      "id": 2,
+      "word": "Geologische",
+      "parentId": 1
+    },
+    {
+      "id": 3,
+      "word": "Erdbeben",
+      "parentId": 2
+    },
+    {
+      "id": 4,
+      "word": "Erdbebenphänomen",
+      "parentId": 3
+    },
+    {
+      "id": 5,
+      "word": "Erdbebebnschwam",
+      "parentId": 4
+    },
+    {
+      "id": 6,
+      "word": "Seismische Aktivität",
+      "parentId": 4
+    },
+    {
+      "id": 7,
+      "word": "Nachbeben",
+      "parentId": 4
+    },
+    {
+      "id": 8,
+      "word": "Epizentrum",
+      "parentId": 4
+    },
+    {
+      "id": 9,
+      "word": "Hauptbeben",
+      "parentId": 4
+    },
+    {
+      "id": 10,
+      "word": "Hypozentrum",
+      "parentId": 4
+    },
+    {
+      "id": 11,
+      "word": "Vorbeben",
+      "parentId": 4
+    },
+    {
+      "id": 12,
+      "word": "Seebeben",
+      "parentId": 4
+    },
+    {
+      "id": 13,
+      "word": "Tsunami",
+      "parentId": 12
+    },
+    {
+      "id": 14,
+      "word": "Erdstoß",
+      "parentId": 4
+    },
+    {
+      "id": 15,
+      "word": "Erdbebenursche",
+      "parentId": 3
+    },
+    {
+      "id": 16,
+      "word": "Erdkruste",
+      "parentId": 15
+    },
+    {
+      "id": 17,
+      "word": "Tiefherdbeben",
+      "parentId": 16
+    },
+    {
+      "id": 18,
+      "word": "platektonischer Prozess",
+      "parentId": 15
+    },
+    {
+      "id": 19,
+      "word": "Kontinentalplattendrift",
+      "parentId": 18
+    },
+    {
+      "id": 20,
+      "word": "Bewegung von Lithosphärenplatten",
+      "parentId": 19
+    },
+    {
+      "id": 21,
+      "word": "Spreizungszone",
+      "parentId": 20
+    },
+    {
+      "id": 22,
+      "word": "Subduktion (Plattentektonik)",
+      "parentId": 20
+    },
+    {
+      "id": 23,
+      "word": "Transformverwerfung",
+      "parentId": 20
+    },
+    {
+      "id": 24,
+      "word": "Verwerfung (Geologie)",
+      "parentId": 15
+    },
+    {
+      "id": 25,
+      "word": "anthropogene Erdbeben",
+      "parentId": 24
+    },
+    {
+      "id": 26,
+      "word": "Stausee-Erdbeben",
+      "parentId": 25
+    },
+    {
+      "id": 27,
+      "word": "Sichuan-Erdbeben China 2008",
+      "parentId": 26
+    },
+    {
+      "id": 28,
+      "word": "Erdbebenfolge",
+      "parentId": 3
+    },
+    {
+      "id": 29,
+      "word": "Erdbebenschaden",
+      "parentId": 28
+    },
+    {
+      "id": 30,
+      "word": "Gebäudezerstörung durch Erdbeben",
+      "parentId": 29
+    },
+    {
+      "id": 31,
+      "word": "Infrastrukturschaden durch Erdbeben",
+      "parentId": 29
+    },
+    {
+      "id": 32,
+      "word": "witschaftliche Schaden",
+      "parentId": 29
+    },
+    {
+      "id": 33,
+      "word": "Vulkanuasbruch",
+      "parentId": 29
+    },
+    {
+      "id": 34,
+      "word": "Erdbebenopfer",
+      "parentId": 28
+    },
+    {
+      "id": 35,
+      "word": "Erdbebensuche",
+      "parentId": 34
+    },
+    {
+      "id": 36,
+      "word": "Anzahl Erdbebenbetroffenen",
+      "parentId": 34
+    },
+    {
+      "id": 37,
+      "word": "Erdbeben-Tote",
+      "parentId": 36
+    },
+    {
+      "id": 38,
+      "word": "Verletzte in Syrien",
+      "parentId": 36
+    },
+    {
+      "id": 39,
+      "word": "Vermisste im Erdbebengebiet",
+      "parentId": 36
+    },
+    {
+      "id": 40,
+      "word": "Erdbebenforschung",
+      "parentId": 3
+    },
+    {
+      "id": 41,
+      "word": "Erdbebenmessung",
+      "parentId": 40
+    },
+    {
+      "id": 42,
+      "word": "Seismograph",
+      "parentId": 41
+    },
+    {
+      "id": 43,
+      "word": "Erdbebenwelle",
+      "parentId": 42
+    },
+    {
+      "id": 44,
+      "word": "P-Welle (Seismische Welle)",
+      "parentId": 43
+    },
+    {
+      "id": 45,
+      "word": "S-Welle ( (Seismische Welle)",
+      "parentId": 43
+    },
+    {
+      "id": 46,
+      "word": "Oberflächenwelle (Seismische Welle)",
+      "parentId": 43
+    },
+    {
+      "id": 47,
+      "word": "Erdbebenstärke",
+      "parentId": 41
+    },
+    {
+      "id": 48,
+      "word": "Intensität",
+      "parentId": 47
+    },
+    {
+      "id": 49,
+      "word": "Mercalliskala",
+      "parentId": 48
+    },
+    {
+      "id": 50,
+      "word": "MSK-Skala (EMS-Skala)",
+      "parentId": 48
+    },
+    {
+      "id": 51,
+      "word": "Magnitude",
+      "parentId": 47
+    },
+    {
+      "id": 52,
+      "word": "Richterskala",
+      "parentId": 51
+    },
+    {
+      "id": 53,
+      "word": "Moment-Magnituden-Skala",
+      "parentId": 51
+    },
+    {
+      "id": 54,
+      "word": "Erdbebengefährdung",
+      "parentId": 3
+    },
+    {
+      "id": 55,
+      "word": "Risiko",
+      "parentId": 54
+    },
+    {
+      "id": 56,
+      "word": "Erdbebengebiet",
+      "parentId": 54
+    },
+    {
+      "id": 57,
+      "word": "Erdbeben in Türkein",
+      "parentId": 56
+    },
+    {
+      "id": 58,
+      "word": "Erdbeben in Syrien",
+      "parentId": 56
+    },
+    {
+      "id": 59,
+      "word": "Erdbeben im Indischen Ozean 2004",
+      "parentId": 56
+    },
+    {
+      "id": 60,
+      "word": "Seebeben vor Java Juli 2006",
+      "parentId": 56
+    },
+    {
+      "id": 61,
+      "word": "Großes Alaska-Beben",
+      "parentId": 56
+    },
+    {
+      "id": 62,
+      "word": "Erdbebenschutzmaßnahme",
+      "parentId": 3
+    },
+    {
+      "id": 63,
+      "word": "EU-Satellitensystem Copernicus",
+      "parentId": 62
+    },
+    {
+      "id": 64,
+      "word": "bauen erdbebensicheres Gebäude",
+      "parentId": 62
+    },
+    {
+      "id": 65,
+      "word": "Bauvorschrift für erdbebensicheres/erdbebenreches Bauen",
+      "parentId": 62
+    },
+    {
+      "id": 66,
+      "word": "Erdbeben-Monitoring-Dienst",
+      "parentId": 62
+    },
+    {
+      "id": 67,
+      "word": "Vulkanausbruch",
+      "parentId": 2
+    },
+    {
+      "id": 68,
+      "word": "Beruhigung der Lage: Prognose",
+      "parentId": 67
+    },
+    {
+      "id": 69,
+      "word": "Entleerung des Magma-Kraters",
+      "parentId": 68
+    },
+    {
+      "id": 70,
+      "word": "Schlotverschließung",
+      "parentId": 68
+    },
+    {
+      "id": 71,
+      "word": "Vulkanphänomen",
+      "parentId": 67
+    },
+    {
+      "id": 72,
+      "word": "Krater",
+      "parentId": 71
+    },
+    {
+      "id": 73,
+      "word": "Magma",
+      "parentId": 71
+    },
+    {
+      "id": 74,
+      "word": "Eruption",
+      "parentId": 71
+    },
+    {
+      "id": 75,
+      "word": "strombolianische Eruption",
+      "parentId": 74
+    },
+    {
+      "id": 76,
+      "word": "plinianische Eruption",
+      "parentId": 74
+    },
+    {
+      "id": 77,
+      "word": "Eruptionssäule",
+      "parentId": 74
+    },
+    {
+      "id": 78,
+      "word": "vulkanische Bombe",
+      "parentId": 74
+    },
+    {
+      "id": 79,
+      "word": "von Vulkan ausgelöstes Ereignis",
+      "parentId": 67
+    },
+    {
+      "id": 80,
+      "word": "Lahar",
+      "parentId": 79
+    },
+    {
+      "id": 81,
+      "word": "pyroklastischer Strom",
+      "parentId": 79
+    },
+    {
+      "id": 82,
+      "word": "Gletscher",
+      "parentId": 79
+    },
+    {
+      "id": 83,
+      "word": "Gerölllawine",
+      "parentId": 79
+    },
+    {
+      "id": 84,
+      "word": "Vulkantyp",
+      "parentId": 67
+    },
+    {
+      "id": 85,
+      "word": "Schichtvulkan",
+      "parentId": 84
+    },
+    {
+      "id": 86,
+      "word": "Schildvulkan",
+      "parentId": 84
+    },
+    {
+      "id": 87,
+      "word": "komplexer Vulkan",
+      "parentId": 84
+    },
+    {
+      "id": 88,
+      "word": "Schlackenkegel",
+      "parentId": 84
+    },
+    {
+      "id": 89,
+      "word": "Spaltenvulkan",
+      "parentId": 84
+    },
+    {
+      "id": 90,
+      "word": "Kraterreihe",
+      "parentId": 84
+    },
+    {
+      "id": 91,
+      "word": "Maar",
+      "parentId": 84
+    },
+    {
+      "id": 92,
+      "word": "submariner Vulkan",
+      "parentId": 84
+    },
+    {
+      "id": 93,
+      "word": "Vulkanfeld",
+      "parentId": 84
+    },
+    {
+      "id": 94,
+      "word": "Vorhersage von Vulkanausbruch",
+      "parentId": 67
+    },
+    {
+      "id": 95,
+      "word": "Aufzeichnung seismischer Aktivität",
+      "parentId": 94
+    },
+    {
+      "id": 96,
+      "word": "Geodätische Überwachung",
+      "parentId": 94
+    },
+    {
+      "id": 97,
+      "word": "Messung gravimetrischer und magnetometrischer Veränderung",
+      "parentId": 94
+    },
+    {
+      "id": 98,
+      "word": "Erfassung von Temperaturerhöhungen",
+      "parentId": 94
+    },
+    {
+      "id": 99,
+      "word": "Betroffenes Gebiet",
+      "parentId": 67
+    },
+    {
+      "id": 100,
+      "word": "Indonesien überzogen von Vulkanen (Hauptinsel Java)",
+      "parentId": 99
+    },
+    {
+      "id": 101,
+      "word": "Vulkanausbruch auf La Palma",
+      "parentId": 99
+    },
+    {
+      "id": 102,
+      "word": "Abfolge besonders langer Wasserwellen",
+      "parentId": 13
+    },
+    {
+      "id": 103,
+      "word": "Tsunamiursache",
+      "parentId": 13
+    },
+    {
+      "id": 104,
+      "word": "unterseeisches Erdbeben",
+      "parentId": 103
+    },
+    {
+      "id": 105,
+      "word": "Hineinrutschen großer Erd- und Gesteinsmassen ins Wasser",
+      "parentId": 103
+    },
+    {
+      "id": 106,
+      "word": "künstlich hervorgerufene Explosion",
+      "parentId": 103
+    },
+    {
+      "id": 107,
+      "word": "Einschlag eines Himmelskörpers",
+      "parentId": 103
+    },
+    {
+      "id": 108,
+      "word": "Tsunamigefahrenzone",
+      "parentId": 13
+    },
+    {
+      "id": 109,
+      "word": "Tsunamischutz",
+      "parentId": 13
+    },
+    {
+      "id": 110,
+      "word": "Frühwarnsystem im Japan",
+      "parentId": 109
+    },
+    {
+      "id": 111,
+      "word": "Malaysian National Tsunami Early Warning System (MNTEWS)",
+      "parentId": 109
+    },
+    {
+      "id": 112,
+      "word": "Meteorologische",
+      "parentId": 1
+    },
+    {
+      "id": 113,
+      "word": "Hurrikan",
+      "parentId": 112
+    },
+    {
+      "id": 114,
+      "word": "Hurrikanfolge",
+      "parentId": 113
+    },
+    {
+      "id": 115,
+      "word": "Sturmflut",
+      "parentId": 114
+    },
+    {
+      "id": 116,
+      "word": "Windbruch",
+      "parentId": 114
+    },
+    {
+      "id": 117,
+      "word": "Küstenerosion",
+      "parentId": 114
+    },
+    {
+      "id": 118,
+      "word": "Erdrutsch",
+      "parentId": 114
+    },
+    {
+      "id": 119,
+      "word": "Sturzflut",
+      "parentId": 114
+    },
+    {
+      "id": 120,
+      "word": "Überschwemmung",
+      "parentId": 114
+    },
+    {
+      "id": 121,
+      "word": "Hurrikaneigenschaft",
+      "parentId": 113
+    },
+    {
+      "id": 122,
+      "word": "Wirbelsturm",
+      "parentId": 121
+    },
+    {
+      "id": 123,
+      "word": "Zyklon",
+      "parentId": 122
+    },
+    {
+      "id": 124,
+      "word": "im Indischen Ozean und Südpazifik",
+      "parentId": 123
+    },
+    {
+      "id": 125,
+      "word": "hohe Windgeschwindigkeit",
+      "parentId": 121
+    },
+    {
+      "id": 126,
+      "word": "Hurrikanzentrum",
+      "parentId": 121
+    },
+    {
+      "id": 127,
+      "word": "Tornado",
+      "parentId": 112
+    },
+    {
+      "id": 128,
+      "word": "Mesozyklonaler Tornado",
+      "parentId": 127
+    },
+    {
+      "id": 129,
+      "word": "Mesozyklon",
+      "parentId": 128
+    },
+    {
+      "id": 130,
+      "word": "Sturzregen",
+      "parentId": 128
+    },
+    {
+      "id": 131,
+      "word": "Gewitterfallböe",
+      "parentId": 128
+    },
+    {
+      "id": 132,
+      "word": "Nicht-mesozyklonaler Tornado",
+      "parentId": 127
+    },
+    {
+      "id": 133,
+      "word": "Tornadoursache",
+      "parentId": 127
+    },
+    {
+      "id": 134,
+      "word": "Superzelle",
+      "parentId": 133
+    },
+    {
+      "id": 135,
+      "word": "Starkregen",
+      "parentId": 134
+    },
+    {
+      "id": 136,
+      "word": "Tornadofolge",
+      "parentId": 127
+    },
+    {
+      "id": 137,
+      "word": "umgestürzter Baum",
+      "parentId": 136
+    },
+    {
+      "id": 138,
+      "word": "abgerissene Stromleitung",
+      "parentId": 136
+    },
+    {
+      "id": 139,
+      "word": "Tornado in Alabama",
+      "parentId": 127
+    },
+    {
+      "id": 140,
+      "word": "Tornadoerkennung",
+      "parentId": 127
+    },
+    {
+      "id": 141,
+      "word": "Luftwirbel",
+      "parentId": 140
+    },
+    {
+      "id": 142,
+      "word": "rotierende Luftmasse",
+      "parentId": 140
+    },
+    {
+      "id": 143,
+      "word": "Fujita-Skala",
+      "parentId": 140
+    },
+    {
+      "id": 144,
+      "word": "TORRO-Skala",
+      "parentId": 140
+    },
+    {
+      "id": 145,
+      "word": "Dürre",
+      "parentId": 112
+    },
+    {
+      "id": 146,
+      "word": "Hitzewelle",
+      "parentId": 145
+    },
+    {
+      "id": 147,
+      "word": "Dürreereignis",
+      "parentId": 145
+    },
+    {
+      "id": 148,
+      "word": "Dürremonitor",
+      "parentId": 147
+    },
+    {
+      "id": 149,
+      "word": "Dürre-Notstand",
+      "parentId": 147
+    },
+    {
+      "id": 150,
+      "word": "Dürregefahr",
+      "parentId": 147
+    },
+    {
+      "id": 151,
+      "word": "Dürresituation",
+      "parentId": 147
+    },
+    {
+      "id": 152,
+      "word": "Dürreproblem",
+      "parentId": 147
+    },
+    {
+      "id": 153,
+      "word": "Dürreszenario",
+      "parentId": 147
+    },
+    {
+      "id": 154,
+      "word": "dürrebedingt",
+      "parentId": 147
+    },
+    {
+      "id": 155,
+      "word": "Typologie von Dürreereignissen",
+      "parentId": 145
+    },
+    {
+      "id": 156,
+      "word": "meteorologische Dürre",
+      "parentId": 155
+    },
+    {
+      "id": 157,
+      "word": "hydrologische Dürre",
+      "parentId": 155
+    },
+    {
+      "id": 158,
+      "word": "landwirtschaftliche Dürre",
+      "parentId": 155
+    },
+    {
+      "id": 159,
+      "word": "sozio-ökonomische Dürre",
+      "parentId": 155
+    },
+    {
+      "id": 160,
+      "word": "Dürreperiode",
+      "parentId": 145
+    },
+    {
+      "id": 161,
+      "word": "Dürrejahr",
+      "parentId": 160
+    },
+    {
+      "id": 162,
+      "word": "Dürresommer",
+      "parentId": 160
+    },
+    {
+      "id": 163,
+      "word": "Palmer-Dürre-Index",
+      "parentId": 145
+    },
+    {
+      "id": 164,
+      "word": "Dürrenschaden",
+      "parentId": 145
+    },
+    {
+      "id": 165,
+      "word": "geringere Ernten, hohe Preise für geernteten Güter",
+      "parentId": 164
+    },
+    {
+      "id": 166,
+      "word": "Engpässe in der Stromversorgung",
+      "parentId": 164
+    },
+    {
+      "id": 167,
+      "word": "Bodenerosion",
+      "parentId": 164
+    },
+    {
+      "id": 168,
+      "word": "schlimmste Dürre des Jahrtausends, Deutschland, 1540",
+      "parentId": 164
+    },
+    {
+      "id": 169,
+      "word": "schneearmer Winter",
+      "parentId": 164
+    },
+    {
+      "id": 170,
+      "word": "Waldbrand",
+      "parentId": 112
+    },
+    {
+      "id": 171,
+      "word": "Waldbrandgefahr",
+      "parentId": 170
+    },
+    {
+      "id": 172,
+      "word": "Waldbrandgefahrenstufe",
+      "parentId": 170
+    },
+    {
+      "id": 173,
+      "word": "Waldbrandstatistik",
+      "parentId": 170
+    },
+    {
+      "id": 174,
+      "word": "Waldbrand-Beobachtungssystem",
+      "parentId": 170
+    },
+    {
+      "id": 175,
+      "word": "Waldbrandüberwachungsflug",
+      "parentId": 174
+    },
+    {
+      "id": 176,
+      "word": "Waldbrandjahr",
+      "parentId": 170
+    },
+    {
+      "id": 177,
+      "word": "Waldbrandausrüstung",
+      "parentId": 170
+    },
+    {
+      "id": 178,
+      "word": "Waldbrandbekämpfung",
+      "parentId": 177
+    },
+    {
+      "id": 179,
+      "word": "Hydrologische",
+      "parentId": 1
+    },
+    {
+      "id": 180,
+      "word": "Lawine",
+      "parentId": 179
+    },
+    {
+      "id": 181,
+      "word": "Naturkatastrophenursache",
+      "parentId": 180
+    },
+    {
+      "id": 182,
+      "word": "Lawinenauslöser",
+      "parentId": 180
+    },
+    {
+      "id": 183,
+      "word": "Schwachschicht",
+      "parentId": 182
+    },
+    {
+      "id": 184,
+      "word": "Schneebrett",
+      "parentId": 183
+    },
+    {
+      "id": 185,
+      "word": "menschliche Aktivität",
+      "parentId": 182
+    },
+    {
+      "id": 186,
+      "word": "Schneeschuhwanderer",
+      "parentId": 185
+    },
+    {
+      "id": 187,
+      "word": "Gleitschneelawine",
+      "parentId": 182
+    },
+    {
+      "id": 188,
+      "word": "Lockerschneelawine",
+      "parentId": 182
+    },
+    {
+      "id": 189,
+      "word": "Schneedecke",
+      "parentId": 180
+    },
+    {
+      "id": 190,
+      "word": "großer Temperaturuntteschied",
+      "parentId": 189
+    },
+    {
+      "id": 191,
+      "word": "Schneekörner",
+      "parentId": 189
+    },
+    {
+      "id": 192,
+      "word": "Schneekristall",
+      "parentId": 191
+    },
+    {
+      "id": 193,
+      "word": "vereiste Rutschfläche",
+      "parentId": 189
+    },
+    {
+      "id": 194,
+      "word": "Schneeprofil",
+      "parentId": 189
+    },
+    {
+      "id": 195,
+      "word": "Sicherheitausrüstung für Skitouren",
+      "parentId": 180
+    },
+    {
+      "id": 196,
+      "word": "Lawinenairbag",
+      "parentId": 195
+    },
+    {
+      "id": 197,
+      "word": "Lawinenschaufel",
+      "parentId": 195
+    },
+    {
+      "id": 198,
+      "word": "Lawinensond",
+      "parentId": 195
+    },
+    {
+      "id": 199,
+      "word": "Lawinenverschüttetensuchgerät (LVS)",
+      "parentId": 195
+    },
+    {
+      "id": 200,
+      "word": "Lawinen-Rucksack",
+      "parentId": 195
+    },
+    {
+      "id": 201,
+      "word": "Lawinendienst",
+      "parentId": 180
+    },
+    {
+      "id": 202,
+      "word": "Rettungskraft",
+      "parentId": 201
+    },
+    {
+      "id": 203,
+      "word": "Lawinenrettungsgruppe",
+      "parentId": 202
+    },
+    {
+      "id": 204,
+      "word": "Lawinenopfer",
+      "parentId": 180
+    },
+    {
+      "id": 205,
+      "word": "Verschüttete",
+      "parentId": 204
+    },
+    {
+      "id": 206,
+      "word": "Todesopfer nach Lawinenunglück",
+      "parentId": 204
+    },
+    {
+      "id": 207,
+      "word": "Erfrorene",
+      "parentId": 204
+    },
+    {
+      "id": 208,
+      "word": "Lawinengefahr",
+      "parentId": 180
+    },
+    {
+      "id": 209,
+      "word": "Lawinenrisiko",
+      "parentId": 208
+    },
+    {
+      "id": 210,
+      "word": "Lawinenkunde",
+      "parentId": 209
+    },
+    {
+      "id": 211,
+      "word": "Hangneigung: Einschätzung der Lawinengefahr",
+      "parentId": 210
+    },
+    {
+      "id": 212,
+      "word": "Sicherheit während Skitouren",
+      "parentId": 211
+    },
+    {
+      "id": 213,
+      "word": "Neigungswinkel des Hanges",
+      "parentId": 211
+    },
+    {
+      "id": 214,
+      "word": "Gradient (Meteorologie)",
+      "parentId": 211
+    },
+    {
+      "id": 215,
+      "word": "Lawinenabgang",
+      "parentId": 211
+    },
+    {
+      "id": 216,
+      "word": "Lawinengefahrenstufe",
+      "parentId": 211
+    },
+    {
+      "id": 217,
+      "word": "Lawinenwarnung",
+      "parentId": 208
+    },
+    {
+      "id": 218,
+      "word": "Berechnung von Lawinenwarnzone",
+      "parentId": 217
+    },
+    {
+      "id": 219,
+      "word": "Lawinenlagebericht",
+      "parentId": 217
+    },
+    {
+      "id": 220,
+      "word": "Lawinenwarnstufe",
+      "parentId": 217
+    },
+    {
+      "id": 221,
+      "word": "Lawinenrisikomanagment",
+      "parentId": 220
+    },
+    {
+      "id": 222,
+      "word": "Lawinenstrategie",
+      "parentId": 220
+    },
+    {
+      "id": 223,
+      "word": "Klimabedingte",
+      "parentId": 1
+    },
+    {
+      "id": 224,
+      "word": "Klimawandel",
+      "parentId": 223
+    },
+    {
+      "id": 225,
+      "word": "Extremwetterereignis",
+      "parentId": 223
+    },
+    {
+      "id": 226,
+      "word": "Hitze",
+      "parentId": 146
+    },
+    {
+      "id": 227,
+      "word": "Hitzeperiode",
+      "parentId": 226
+    },
+    {
+      "id": 228,
+      "word": "Hitzebelastung",
+      "parentId": 227
+    },
+    {
+      "id": 229,
+      "word": "Maßnahme gegen Hitze",
+      "parentId": 146
+    },
+    {
+      "id": 230,
+      "word": "Hitzeschutzplan",
+      "parentId": 229
+    },
+    {
+      "id": 231,
+      "word": "Trinkwasserbrunnen",
+      "parentId": 230
+    },
+    {
+      "id": 232,
+      "word": "regulierte Arbeitszeiten und -bedingungen",
+      "parentId": 230
+    },
+    {
+      "id": 233,
+      "word": "Hitzefrei",
+      "parentId": 230
+    },
+    {
+      "id": 234,
+      "word": "Seniorenbesuch in Heißperioden",
+      "parentId": 230
+    },
+    {
+      "id": 235,
+      "word": "Kühlsäle",
+      "parentId": 230
+    },
+    {
+      "id": 236,
+      "word": "Tierschutz",
+      "parentId": 230
+    },
+    {
+      "id": 237,
+      "word": "Eis für Vierbeiner",
+      "parentId": 236
+    },
+    {
+      "id": 238,
+      "word": "Sonnencreme mit hohem Lichtschutzfaktor",
+      "parentId": 230
+    },
+    {
+      "id": 239,
+      "word": "Klimaanlage gegen die Hitze",
+      "parentId": 230
+    },
+    {
+      "id": 240,
+      "word": "Sommergrippe",
+      "parentId": 239
+    },
+    {
+      "id": 241,
+      "word": "Maßnahme für Begrünung uns Schattierung",
+      "parentId": 229
+    },
+    {
+      "id": 242,
+      "word": "Hagelschutznetz",
+      "parentId": 241
+    },
+    {
+      "id": 243,
+      "word": "gegen Sonnebrand für Bäume",
+      "parentId": 242
+    },
+    {
+      "id": 244,
+      "word": "Hitze- & Trokcenheitfolge",
+      "parentId": 146
+    },
+    {
+      "id": 245,
+      "word": "Hitzeerkrankung",
+      "parentId": 244
+    },
+    {
+      "id": 246,
+      "word": "Kreislaufbeschwerde bei Hitze",
+      "parentId": 245
+    },
+    {
+      "id": 247,
+      "word": "Magen-Darm-Infektion",
+      "parentId": 245
+    },
+    {
+      "id": 248,
+      "word": "Sonnenstich",
+      "parentId": 245
+    },
+    {
+      "id": 249,
+      "word": "Hitzekollaps-/schlag",
+      "parentId": 245
+    },
+    {
+      "id": 250,
+      "word": "Hitzekrampf",
+      "parentId": 245
+    },
+    {
+      "id": 251,
+      "word": "fehlende Thermoregulation",
+      "parentId": 245
+    },
+    {
+      "id": 252,
+      "word": "Wärmebelastung",
+      "parentId": 245
+    },
+    {
+      "id": 253,
+      "word": "Schlafproblem",
+      "parentId": 245
+    },
+    {
+      "id": 254,
+      "word": "Natur- und Landwirtschaftprobleme während Hitzeperioden",
+      "parentId": 244
+    },
+    {
+      "id": 255,
+      "word": "sinkendes Grundwasserspiegel",
+      "parentId": 254
+    },
+    {
+      "id": 256,
+      "word": "Auswirkung auf Erntejahr",
+      "parentId": 244
+    },
+    {
+      "id": 257,
+      "word": "Dürrenuswirkung auf Forstwirtschaft",
+      "parentId": 256
+    },
+    {
+      "id": 258,
+      "word": "erschwete Bekämpfung des Borkenkäfers",
+      "parentId": 257
+    },
+    {
+      "id": 259,
+      "word": "Wasserknappheit",
+      "parentId": 257
+    },
+    {
+      "id": 260,
+      "word": "Niedrigwasser",
+      "parentId": 259
+    },
+    {
+      "id": 261,
+      "word": "ausgetroknete Flussläufe",
+      "parentId": 257
+    },
+    {
+      "id": 262,
+      "word": "Blaualgenplagen",
+      "parentId": 257
+    },
+    {
+      "id": 263,
+      "word": "ausgetrockneter Boden",
+      "parentId": 257
+    },
+    {
+      "id": 264,
+      "word": "Gefahr von Waldbränden",
+      "parentId": 257
+    },
+    {
+      "id": 265,
+      "word": "Hochwasser",
+      "parentId": 225
+    },
+    {
+      "id": 266,
+      "word": "Flutkatastrophe",
+      "parentId": 265
+    },
+    {
+      "id": 267,
+      "word": "Überflutung",
+      "parentId": 266
+    },
+    {
+      "id": 268,
+      "word": "Flutwelle",
+      "parentId": 267
+    },
+    {
+      "id": 269,
+      "word": "Flutpolder",
+      "parentId": 267
+    },
+    {
+      "id": 270,
+      "word": "Überflutungsgefahr",
+      "parentId": 267
+    },
+    {
+      "id": 271,
+      "word": "flutgeschädigten",
+      "parentId": 267
+    },
+    {
+      "id": 272,
+      "word": "überflutet",
+      "parentId": 271
+    },
+    {
+      "id": 273,
+      "word": "Fluthilfe",
+      "parentId": 267
+    },
+    {
+      "id": 274,
+      "word": "Flutopfer",
+      "parentId": 267
+    },
+    {
+      "id": 275,
+      "word": "Flutgebiet",
+      "parentId": 267
+    },
+    {
+      "id": 276,
+      "word": "Überflutungsfläche",
+      "parentId": 275
+    },
+    {
+      "id": 277,
+      "word": "sturzflutartiges",
+      "parentId": 119
+    },
+    {
+      "id": 278,
+      "word": "Unwetter",
+      "parentId": 265
+    },
+    {
+      "id": 279,
+      "word": "Starkregenfall",
+      "parentId": 135
+    },
+    {
+      "id": 280,
+      "word": "Starkgewitter",
+      "parentId": 135
+    },
+    {
+      "id": 281,
+      "word": "Starkniederschlag",
+      "parentId": 135
+    },
+    {
+      "id": 282,
+      "word": "Sturmkatastrophe",
+      "parentId": 278
+    },
+    {
+      "id": 283,
+      "word": "Sturm Sabine",
+      "parentId": 282
+    },
+    {
+      "id": 284,
+      "word": "Hagelsturm",
+      "parentId": 282
+    },
+    {
+      "id": 285,
+      "word": "Schneesturm",
+      "parentId": 282
+    },
+    {
+      "id": 286,
+      "word": "Sandsturm",
+      "parentId": 282
+    },
+    {
+      "id": 287,
+      "word": "Strumschaden",
+      "parentId": 282
+    },
+    {
+      "id": 288,
+      "word": "Sturmböe",
+      "parentId": 282
+    },
+    {
+      "id": 289,
+      "word": "sturmbedingt",
+      "parentId": 282
+    },
+    {
+      "id": 290,
+      "word": "Sturmwarnung",
+      "parentId": 282
+    },
+    {
+      "id": 291,
+      "word": "Sturmintensität",
+      "parentId": 290
+    },
+    {
+      "id": 292,
+      "word": "Sturmflutrisiko",
+      "parentId": 282
+    },
+    {
+      "id": 293,
+      "word": "Sturmflutgefahr",
+      "parentId": 292
+    },
+    {
+      "id": 294,
+      "word": "Sturmwahrscheinlichkeit",
+      "parentId": 292
+    },
+    {
+      "id": 295,
+      "word": "Sturmflutereignis",
+      "parentId": 282
+    },
+    {
+      "id": 296,
+      "word": "Biologische",
+      "parentId": 1
+    },
+    {
+      "id": 297,
+      "word": "Insektenplagen",
+      "parentId": 296
+    },
+    {
+      "id": 298,
+      "word": "Schädlingsplagen",
+      "parentId": 297
+    },
+    {
+      "id": 299,
+      "word": "Epidemie",
+      "parentId": 296
+    },
+    {
+      "id": 300,
+      "word": "Extraterrestrische",
+      "parentId": 1
+    },
+    {
+      "id": 301,
+      "word": "Meteoriteneinschlag",
+      "parentId": 300
+    },
+    {
+      "id": 302,
+      "word": "Schwarmlawine",
+      "parentId": 118
+    },
+    {
+      "id": 303,
+      "word": "Murgang",
+      "parentId": 302
+    },
+    {
+      "id": 304,
+      "word": "Abholzung",
+      "parentId": 181
+    },
+    {
+      "id": 305,
+      "word": "Erderwärmung",
+      "parentId": 181
+    },
+    {
+      "id": 306,
+      "word": "Katastrophenvorsorge und -planung",
+      "parentId": 0
+    },
+    {
+      "id": 307,
+      "word": "Frühwarnsystem",
+      "parentId": 306
+    },
+    {
+      "id": 308,
+      "word": "Wetterdienstbericht",
+      "parentId": 307
+    },
+    {
+      "id": 309,
+      "word": "SMS-Warnsystem für Katastrophen",
+      "parentId": 307
+    },
+    {
+      "id": 310,
+      "word": "Deiche für Küstenstädte",
+      "parentId": 307
+    },
+    {
+      "id": 311,
+      "word": "Erdbebenfrühwarnung",
+      "parentId": 307
+    },
+    {
+      "id": 312,
+      "word": "KI-Warnsystem für Unwetterwarnung",
+      "parentId": 307
+    },
+    {
+      "id": 313,
+      "word": "Luftrettungsstaffel",
+      "parentId": 307
+    },
+    {
+      "id": 314,
+      "word": "Deutscher Flugbeobachtungsdienst Luftrettungsstaffel Bayern",
+      "parentId": 313
+    },
+    {
+      "id": 315,
+      "word": "intakte Wälder",
+      "parentId": 307
+    },
+    {
+      "id": 316,
+      "word": "Natürliche Auen",
+      "parentId": 307
+    },
+    {
+      "id": 317,
+      "word": "Evakuierung",
+      "parentId": 306
+    },
+    {
+      "id": 318,
+      "word": "Evakuierungstreffpunkt finden",
+      "parentId": 317
+    },
+    {
+      "id": 319,
+      "word": "Evakuierungszentrum",
+      "parentId": 317
+    },
+    {
+      "id": 320,
+      "word": "Evakuierungszone",
+      "parentId": 317
+    },
+    {
+      "id": 321,
+      "word": "Evakuierungsaufforderung",
+      "parentId": 317
+    },
+    {
+      "id": 322,
+      "word": "Katastrophennotfallplan",
+      "parentId": 306
+    },
+    {
+      "id": 323,
+      "word": "Evakuierungsplan",
+      "parentId": 322
+    },
+    {
+      "id": 324,
+      "word": "Katastrophenschutzübung",
+      "parentId": 306
+    },
+    {
+      "id": 325,
+      "word": "Trainingsprogramm für Bevölkerung",
+      "parentId": 324
+    },
+    {
+      "id": 326,
+      "word": "Brandschutz",
+      "parentId": 324
+    },
+    {
+      "id": 327,
+      "word": "vorbeugender Brandschutz",
+      "parentId": 326
+    },
+    {
+      "id": 328,
+      "word": "Katastrophenmanagement",
+      "parentId": 306
+    },
+    {
+      "id": 329,
+      "word": "Katastrophenschutz",
+      "parentId": 328
+    },
+    {
+      "id": 330,
+      "word": "Katastrophenschutzgesetz",
+      "parentId": 329
+    },
+    {
+      "id": 331,
+      "word": "Katastrophenschutzbehörde",
+      "parentId": 328
+    },
+    {
+      "id": 332,
+      "word": "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK)",
+      "parentId": 331
+    },
+    {
+      "id": 333,
+      "word": "EU-Katastrophenschutzverfahren",
+      "parentId": 328
+    },
+    {
+      "id": 334,
+      "word": "Versicherungsschutz",
+      "parentId": 328
+    },
+    {
+      "id": 335,
+      "word": "Haftversicherungspflicht",
+      "parentId": 334
+    },
+    {
+      "id": 336,
+      "word": "Langfristige Maßnahmen und Wiederaufbau",
+      "parentId": 328
+    },
+    {
+      "id": 337,
+      "word": "Schadensbegrenzung",
+      "parentId": 336
+    },
+    {
+      "id": 338,
+      "word": "Hilfsmaßnahme &  Schadenvorsorge",
+      "parentId": 336
+    },
+    {
+      "id": 339,
+      "word": "Wiederaufbau nach Naturkatastrophe",
+      "parentId": 336
+    },
+    {
+      "id": 340,
+      "word": "Sach- und Wohngebäudeversicherung gegen Naturkatastrophen",
+      "parentId": 339
+    },
+    {
+      "id": 341,
+      "word": "Rettung und Soforthilfe",
+      "parentId": 0
+    },
+    {
+      "id": 342,
+      "word": "Rettungseinsatz",
+      "parentId": 341
+    },
+    {
+      "id": 343,
+      "word": "Hilfstransport (Katastrophenhilfe)",
+      "parentId": 342
+    },
+    {
+      "id": 344,
+      "word": "Deutsche GeoForschungsZentrum",
+      "parentId": 342
+    },
+    {
+      "id": 345,
+      "word": "RKT (Regensburger Krankentransport)",
+      "parentId": 342
+    },
+    {
+      "id": 346,
+      "word": "Retungsorganisation Weißhelme",
+      "parentId": 342
+    },
+    {
+      "id": 347,
+      "word": "Türkischer Roter Halbmond",
+      "parentId": 342
+    },
+    {
+      "id": 348,
+      "word": "Notfallvorsorge",
+      "parentId": 341
+    },
+    {
+      "id": 349,
+      "word": "Opferhilfe",
+      "parentId": 341
+    },
+    {
+      "id": 350,
+      "word": "schnelle Visavergabe",
+      "parentId": 349
+    },
+    {
+      "id": 351,
+      "word": "Flüchtlichgsorganisation",
+      "parentId": 350
+    },
+    {
+      "id": 352,
+      "word": "Versorgung von Überlebenden und Verletzten",
+      "parentId": 349
+    },
+    {
+      "id": 353,
+      "word": "medizinische Versorgung für Natirkatastrophenopfer",
+      "parentId": 349
+    },
+    {
+      "id": 354,
+      "word": "Verpflegung, Strom- und Trinkwasserversorgung",
+      "parentId": 349
+    },
+    {
+      "id": 355,
+      "word": "Nothilfe nach Naturkatastrophe",
+      "parentId": 341
+    },
+    {
+      "id": 356,
+      "word": "Ausnahmezustand",
+      "parentId": 355
+    },
+    {
+      "id": 357,
+      "word": "Notunterkunft für Betroffenen",
+      "parentId": 355
+    },
+    {
+      "id": 358,
+      "word": "Sach- und Geldspende",
+      "parentId": 355
+    },
+    {
+      "id": 359,
+      "word": "Hilfsgut für Betroffene",
+      "parentId": 355
+    },
+    {
+      "id": 360,
+      "word": "Katastrophenschaden",
+      "parentId": 0
+    },
+    {
+      "id": 361,
+      "word": "entwurzelte vom Sturm/Orkan Baum",
+      "parentId": 360
+    },
+    {
+      "id": 362,
+      "word": "Gebäudeschaden nach Naturkatastrophe",
+      "parentId": 360
+    },
+    {
+      "id": 363,
+      "word": "Elementarschadenversicherung",
+      "parentId": 362
+    },
+    {
+      "id": 364,
+      "word": "überflutete Straße",
+      "parentId": 360
+    },
+    {
+      "id": 365,
+      "word": "Sachschaden",
+      "parentId": 360
+    },
+    {
+      "id": 366,
+      "word": "Unwetterstörung Bahn- und Straßenverkehr",
+      "parentId": 360
+    }
+  ],
+  "links": [
+    {
+      "from": 0,
+      "to": 1
+    },
+    {
+      "from": 1,
+      "to": 2
+    },
+    {
+      "from": 2,
+      "to": 3
+    },
+    {
+      "from": 3,
+      "to": 4
+    },
+    {
+      "from": 4,
+      "to": 5
+    },
+    {
+      "from": 4,
+      "to": 6
+    },
+    {
+      "from": 4,
+      "to": 7
+    },
+    {
+      "from": 4,
+      "to": 8
+    },
+    {
+      "from": 4,
+      "to": 9
+    },
+    {
+      "from": 4,
+      "to": 10
+    },
+    {
+      "from": 4,
+      "to": 11
+    },
+    {
+      "from": 4,
+      "to": 12
+    },
+    {
+      "from": 12,
+      "to": 13
+    },
+    {
+      "from": 4,
+      "to": 14
+    },
+    {
+      "from": 3,
+      "to": 15
+    },
+    {
+      "from": 15,
+      "to": 16
+    },
+    {
+      "from": 16,
+      "to": 17
+    },
+    {
+      "from": 15,
+      "to": 18
+    },
+    {
+      "from": 18,
+      "to": 19
+    },
+    {
+      "from": 19,
+      "to": 20
+    },
+    {
+      "from": 20,
+      "to": 21
+    },
+    {
+      "from": 20,
+      "to": 22
+    },
+    {
+      "from": 20,
+      "to": 23
+    },
+    {
+      "from": 15,
+      "to": 24
+    },
+    {
+      "from": 24,
+      "to": 25
+    },
+    {
+      "from": 25,
+      "to": 26
+    },
+    {
+      "from": 26,
+      "to": 27
+    },
+    {
+      "from": 3,
+      "to": 28
+    },
+    {
+      "from": 28,
+      "to": 29
+    },
+    {
+      "from": 29,
+      "to": 30
+    },
+    {
+      "from": 29,
+      "to": 31
+    },
+    {
+      "from": 29,
+      "to": 32
+    },
+    {
+      "from": 29,
+      "to": 33
+    },
+    {
+      "from": 28,
+      "to": 34
+    },
+    {
+      "from": 34,
+      "to": 35
+    },
+    {
+      "from": 34,
+      "to": 36
+    },
+    {
+      "from": 36,
+      "to": 37
+    },
+    {
+      "from": 36,
+      "to": 38
+    },
+    {
+      "from": 36,
+      "to": 39
+    },
+    {
+      "from": 3,
+      "to": 40
+    },
+    {
+      "from": 40,
+      "to": 41
+    },
+    {
+      "from": 41,
+      "to": 42
+    },
+    {
+      "from": 42,
+      "to": 43
+    },
+    {
+      "from": 43,
+      "to": 44
+    },
+    {
+      "from": 43,
+      "to": 45
+    },
+    {
+      "from": 43,
+      "to": 46
+    },
+    {
+      "from": 41,
+      "to": 47
+    },
+    {
+      "from": 47,
+      "to": 48
+    },
+    {
+      "from": 48,
+      "to": 49
+    },
+    {
+      "from": 48,
+      "to": 50
+    },
+    {
+      "from": 47,
+      "to": 51
+    },
+    {
+      "from": 51,
+      "to": 52
+    },
+    {
+      "from": 51,
+      "to": 53
+    },
+    {
+      "from": 3,
+      "to": 54
+    },
+    {
+      "from": 54,
+      "to": 55
+    },
+    {
+      "from": 54,
+      "to": 56
+    },
+    {
+      "from": 56,
+      "to": 57
+    },
+    {
+      "from": 56,
+      "to": 58
+    },
+    {
+      "from": 56,
+      "to": 59
+    },
+    {
+      "from": 56,
+      "to": 60
+    },
+    {
+      "from": 56,
+      "to": 61
+    },
+    {
+      "from": 3,
+      "to": 62
+    },
+    {
+      "from": 62,
+      "to": 63
+    },
+    {
+      "from": 62,
+      "to": 64
+    },
+    {
+      "from": 62,
+      "to": 65
+    },
+    {
+      "from": 62,
+      "to": 66
+    },
+    {
+      "from": 2,
+      "to": 67
+    },
+    {
+      "from": 67,
+      "to": 68
+    },
+    {
+      "from": 68,
+      "to": 69
+    },
+    {
+      "from": 68,
+      "to": 70
+    },
+    {
+      "from": 67,
+      "to": 71
+    },
+    {
+      "from": 71,
+      "to": 72
+    },
+    {
+      "from": 71,
+      "to": 73
+    },
+    {
+      "from": 71,
+      "to": 74
+    },
+    {
+      "from": 74,
+      "to": 75
+    },
+    {
+      "from": 74,
+      "to": 76
+    },
+    {
+      "from": 74,
+      "to": 77
+    },
+    {
+      "from": 74,
+      "to": 78
+    },
+    {
+      "from": 67,
+      "to": 79
+    },
+    {
+      "from": 79,
+      "to": 80
+    },
+    {
+      "from": 79,
+      "to": 81
+    },
+    {
+      "from": 79,
+      "to": 82
+    },
+    {
+      "from": 79,
+      "to": 83
+    },
+    {
+      "from": 79,
+      "to": 13
+    },
+    {
+      "from": 67,
+      "to": 84
+    },
+    {
+      "from": 84,
+      "to": 85
+    },
+    {
+      "from": 84,
+      "to": 86
+    },
+    {
+      "from": 84,
+      "to": 87
+    },
+    {
+      "from": 84,
+      "to": 88
+    },
+    {
+      "from": 84,
+      "to": 89
+    },
+    {
+      "from": 84,
+      "to": 90
+    },
+    {
+      "from": 84,
+      "to": 91
+    },
+    {
+      "from": 84,
+      "to": 92
+    },
+    {
+      "from": 84,
+      "to": 93
+    },
+    {
+      "from": 67,
+      "to": 94
+    },
+    {
+      "from": 94,
+      "to": 95
+    },
+    {
+      "from": 94,
+      "to": 96
+    },
+    {
+      "from": 94,
+      "to": 97
+    },
+    {
+      "from": 94,
+      "to": 98
+    },
+    {
+      "from": 67,
+      "to": 99
+    },
+    {
+      "from": 99,
+      "to": 100
+    },
+    {
+      "from": 99,
+      "to": 101
+    },
+    {
+      "from": 2,
+      "to": 13
+    },
+    {
+      "from": 13,
+      "to": 102
+    },
+    {
+      "from": 13,
+      "to": 103
+    },
+    {
+      "from": 103,
+      "to": 104
+    },
+    {
+      "from": 103,
+      "to": 105
+    },
+    {
+      "from": 103,
+      "to": 106
+    },
+    {
+      "from": 103,
+      "to": 107
+    },
+    {
+      "from": 13,
+      "to": 108
+    },
+    {
+      "from": 108,
+      "to": 59
+    },
+    {
+      "from": 108,
+      "to": 60
+    },
+    {
+      "from": 13,
+      "to": 109
+    },
+    {
+      "from": 109,
+      "to": 110
+    },
+    {
+      "from": 109,
+      "to": 111
+    },
+    {
+      "from": 1,
+      "to": 112
+    },
+    {
+      "from": 112,
+      "to": 113
+    },
+    {
+      "from": 113,
+      "to": 114
+    },
+    {
+      "from": 114,
+      "to": 115
+    },
+    {
+      "from": 114,
+      "to": 116
+    },
+    {
+      "from": 114,
+      "to": 117
+    },
+    {
+      "from": 114,
+      "to": 118
+    },
+    {
+      "from": 114,
+      "to": 119
+    },
+    {
+      "from": 114,
+      "to": 120
+    },
+    {
+      "from": 113,
+      "to": 121
+    },
+    {
+      "from": 121,
+      "to": 122
+    },
+    {
+      "from": 122,
+      "to": 123
+    },
+    {
+      "from": 123,
+      "to": 124
+    },
+    {
+      "from": 121,
+      "to": 125
+    },
+    {
+      "from": 121,
+      "to": 126
+    },
+    {
+      "from": 112,
+      "to": 127
+    },
+    {
+      "from": 127,
+      "to": 128
+    },
+    {
+      "from": 128,
+      "to": 129
+    },
+    {
+      "from": 128,
+      "to": 130
+    },
+    {
+      "from": 128,
+      "to": 131
+    },
+    {
+      "from": 127,
+      "to": 132
+    },
+    {
+      "from": 127,
+      "to": 133
+    },
+    {
+      "from": 133,
+      "to": 134
+    },
+    {
+      "from": 134,
+      "to": 135
+    },
+    {
+      "from": 127,
+      "to": 136
+    },
+    {
+      "from": 136,
+      "to": 137
+    },
+    {
+      "from": 136,
+      "to": 138
+    },
+    {
+      "from": 127,
+      "to": 139
+    },
+    {
+      "from": 127,
+      "to": 140
+    },
+    {
+      "from": 140,
+      "to": 141
+    },
+    {
+      "from": 140,
+      "to": 142
+    },
+    {
+      "from": 140,
+      "to": 143
+    },
+    {
+      "from": 140,
+      "to": 144
+    },
+    {
+      "from": 112,
+      "to": 145
+    },
+    {
+      "from": 145,
+      "to": 146
+    },
+    {
+      "from": 145,
+      "to": 147
+    },
+    {
+      "from": 147,
+      "to": 148
+    },
+    {
+      "from": 147,
+      "to": 149
+    },
+    {
+      "from": 147,
+      "to": 150
+    },
+    {
+      "from": 147,
+      "to": 151
+    },
+    {
+      "from": 147,
+      "to": 152
+    },
+    {
+      "from": 147,
+      "to": 153
+    },
+    {
+      "from": 147,
+      "to": 154
+    },
+    {
+      "from": 145,
+      "to": 155
+    },
+    {
+      "from": 155,
+      "to": 156
+    },
+    {
+      "from": 155,
+      "to": 157
+    },
+    {
+      "from": 155,
+      "to": 158
+    },
+    {
+      "from": 155,
+      "to": 159
+    },
+    {
+      "from": 145,
+      "to": 160
+    },
+    {
+      "from": 160,
+      "to": 161
+    },
+    {
+      "from": 160,
+      "to": 162
+    },
+    {
+      "from": 145,
+      "to": 163
+    },
+    {
+      "from": 145,
+      "to": 164
+    },
+    {
+      "from": 164,
+      "to": 165
+    },
+    {
+      "from": 164,
+      "to": 166
+    },
+    {
+      "from": 164,
+      "to": 167
+    },
+    {
+      "from": 164,
+      "to": 168
+    },
+    {
+      "from": 164,
+      "to": 169
+    },
+    {
+      "from": 112,
+      "to": 170
+    },
+    {
+      "from": 170,
+      "to": 171
+    },
+    {
+      "from": 170,
+      "to": 172
+    },
+    {
+      "from": 170,
+      "to": 173
+    },
+    {
+      "from": 170,
+      "to": 174
+    },
+    {
+      "from": 174,
+      "to": 175
+    },
+    {
+      "from": 170,
+      "to": 176
+    },
+    {
+      "from": 170,
+      "to": 177
+    },
+    {
+      "from": 177,
+      "to": 178
+    },
+    {
+      "from": 1,
+      "to": 179
+    },
+    {
+      "from": 179,
+      "to": 180
+    },
+    {
+      "from": 180,
+      "to": 181
+    },
+    {
+      "from": 180,
+      "to": 182
+    },
+    {
+      "from": 182,
+      "to": 183
+    },
+    {
+      "from": 183,
+      "to": 184
+    },
+    {
+      "from": 182,
+      "to": 185
+    },
+    {
+      "from": 185,
+      "to": 186
+    },
+    {
+      "from": 182,
+      "to": 187
+    },
+    {
+      "from": 182,
+      "to": 188
+    },
+    {
+      "from": 180,
+      "to": 189
+    },
+    {
+      "from": 189,
+      "to": 190
+    },
+    {
+      "from": 189,
+      "to": 191
+    },
+    {
+      "from": 191,
+      "to": 192
+    },
+    {
+      "from": 189,
+      "to": 193
+    },
+    {
+      "from": 189,
+      "to": 194
+    },
+    {
+      "from": 180,
+      "to": 195
+    },
+    {
+      "from": 195,
+      "to": 196
+    },
+    {
+      "from": 195,
+      "to": 197
+    },
+    {
+      "from": 195,
+      "to": 198
+    },
+    {
+      "from": 195,
+      "to": 199
+    },
+    {
+      "from": 195,
+      "to": 200
+    },
+    {
+      "from": 180,
+      "to": 201
+    },
+    {
+      "from": 201,
+      "to": 202
+    },
+    {
+      "from": 202,
+      "to": 203
+    },
+    {
+      "from": 180,
+      "to": 204
+    },
+    {
+      "from": 204,
+      "to": 205
+    },
+    {
+      "from": 204,
+      "to": 206
+    },
+    {
+      "from": 204,
+      "to": 207
+    },
+    {
+      "from": 180,
+      "to": 208
+    },
+    {
+      "from": 208,
+      "to": 209
+    },
+    {
+      "from": 209,
+      "to": 210
+    },
+    {
+      "from": 210,
+      "to": 211
+    },
+    {
+      "from": 211,
+      "to": 212
+    },
+    {
+      "from": 211,
+      "to": 213
+    },
+    {
+      "from": 213,
+      "to": 180
+    },
+    {
+      "from": 211,
+      "to": 214
+    },
+    {
+      "from": 211,
+      "to": 215
+    },
+    {
+      "from": 211,
+      "to": 216
+    },
+    {
+      "from": 208,
+      "to": 217
+    },
+    {
+      "from": 217,
+      "to": 218
+    },
+    {
+      "from": 217,
+      "to": 219
+    },
+    {
+      "from": 217,
+      "to": 220
+    },
+    {
+      "from": 220,
+      "to": 221
+    },
+    {
+      "from": 220,
+      "to": 222
+    },
+    {
+      "from": 1,
+      "to": 223
+    },
+    {
+      "from": 223,
+      "to": 224
+    },
+    {
+      "from": 223,
+      "to": 225
+    },
+    {
+      "from": 225,
+      "to": 146
+    },
+    {
+      "from": 146,
+      "to": 226
+    },
+    {
+      "from": 226,
+      "to": 227
+    },
+    {
+      "from": 227,
+      "to": 228
+    },
+    {
+      "from": 146,
+      "to": 229
+    },
+    {
+      "from": 229,
+      "to": 230
+    },
+    {
+      "from": 230,
+      "to": 231
+    },
+    {
+      "from": 230,
+      "to": 232
+    },
+    {
+      "from": 230,
+      "to": 233
+    },
+    {
+      "from": 230,
+      "to": 234
+    },
+    {
+      "from": 230,
+      "to": 235
+    },
+    {
+      "from": 230,
+      "to": 236
+    },
+    {
+      "from": 236,
+      "to": 237
+    },
+    {
+      "from": 230,
+      "to": 238
+    },
+    {
+      "from": 230,
+      "to": 239
+    },
+    {
+      "from": 239,
+      "to": 240
+    },
+    {
+      "from": 229,
+      "to": 241
+    },
+    {
+      "from": 241,
+      "to": 242
+    },
+    {
+      "from": 242,
+      "to": 243
+    },
+    {
+      "from": 146,
+      "to": 244
+    },
+    {
+      "from": 244,
+      "to": 245
+    },
+    {
+      "from": 245,
+      "to": 246
+    },
+    {
+      "from": 245,
+      "to": 247
+    },
+    {
+      "from": 245,
+      "to": 248
+    },
+    {
+      "from": 245,
+      "to": 249
+    },
+    {
+      "from": 245,
+      "to": 250
+    },
+    {
+      "from": 245,
+      "to": 251
+    },
+    {
+      "from": 245,
+      "to": 252
+    },
+    {
+      "from": 245,
+      "to": 253
+    },
+    {
+      "from": 244,
+      "to": 254
+    },
+    {
+      "from": 254,
+      "to": 255
+    },
+    {
+      "from": 244,
+      "to": 256
+    },
+    {
+      "from": 256,
+      "to": 257
+    },
+    {
+      "from": 257,
+      "to": 258
+    },
+    {
+      "from": 257,
+      "to": 259
+    },
+    {
+      "from": 259,
+      "to": 260
+    },
+    {
+      "from": 257,
+      "to": 261
+    },
+    {
+      "from": 257,
+      "to": 262
+    },
+    {
+      "from": 257,
+      "to": 263
+    },
+    {
+      "from": 257,
+      "to": 264
+    },
+    {
+      "from": 225,
+      "to": 265
+    },
+    {
+      "from": 265,
+      "to": 120
+    },
+    {
+      "from": 265,
+      "to": 135
+    },
+    {
+      "from": 265,
+      "to": 266
+    },
+    {
+      "from": 266,
+      "to": 267
+    },
+    {
+      "from": 267,
+      "to": 268
+    },
+    {
+      "from": 267,
+      "to": 115
+    },
+    {
+      "from": 267,
+      "to": 269
+    },
+    {
+      "from": 267,
+      "to": 270
+    },
+    {
+      "from": 267,
+      "to": 271
+    },
+    {
+      "from": 271,
+      "to": 272
+    },
+    {
+      "from": 267,
+      "to": 273
+    },
+    {
+      "from": 267,
+      "to": 274
+    },
+    {
+      "from": 267,
+      "to": 275
+    },
+    {
+      "from": 275,
+      "to": 276
+    },
+    {
+      "from": 267,
+      "to": 119
+    },
+    {
+      "from": 119,
+      "to": 277
+    },
+    {
+      "from": 265,
+      "to": 278
+    },
+    {
+      "from": 278,
+      "to": 135
+    },
+    {
+      "from": 135,
+      "to": 279
+    },
+    {
+      "from": 135,
+      "to": 280
+    },
+    {
+      "from": 135,
+      "to": 281
+    },
+    {
+      "from": 278,
+      "to": 282
+    },
+    {
+      "from": 282,
+      "to": 283
+    },
+    {
+      "from": 282,
+      "to": 284
+    },
+    {
+      "from": 282,
+      "to": 285
+    },
+    {
+      "from": 285,
+      "to": 180
+    },
+    {
+      "from": 282,
+      "to": 286
+    },
+    {
+      "from": 282,
+      "to": 287
+    },
+    {
+      "from": 282,
+      "to": 288
+    },
+    {
+      "from": 282,
+      "to": 289
+    },
+    {
+      "from": 282,
+      "to": 290
+    },
+    {
+      "from": 290,
+      "to": 291
+    },
+    {
+      "from": 282,
+      "to": 292
+    },
+    {
+      "from": 292,
+      "to": 293
+    },
+    {
+      "from": 292,
+      "to": 294
+    },
+    {
+      "from": 282,
+      "to": 295
+    },
+    {
+      "from": 1,
+      "to": 296
+    },
+    {
+      "from": 296,
+      "to": 297
+    },
+    {
+      "from": 297,
+      "to": 298
+    },
+    {
+      "from": 296,
+      "to": 299
+    },
+    {
+      "from": 1,
+      "to": 300
+    },
+    {
+      "from": 300,
+      "to": 301
+    },
+    {
+      "from": 301,
+      "to": 13
+    },
+    {
+      "from": 0,
+      "to": 181
+    },
+    {
+      "from": 181,
+      "to": 118
+    },
+    {
+      "from": 118,
+      "to": 302
+    },
+    {
+      "from": 302,
+      "to": 303
+    },
+    {
+      "from": 181,
+      "to": 304
+    },
+    {
+      "from": 181,
+      "to": 305
+    },
+    {
+      "from": 0,
+      "to": 306
+    },
+    {
+      "from": 306,
+      "to": 307
+    },
+    {
+      "from": 307,
+      "to": 308
+    },
+    {
+      "from": 307,
+      "to": 309
+    },
+    {
+      "from": 307,
+      "to": 310
+    },
+    {
+      "from": 307,
+      "to": 311
+    },
+    {
+      "from": 307,
+      "to": 312
+    },
+    {
+      "from": 307,
+      "to": 313
+    },
+    {
+      "from": 313,
+      "to": 314
+    },
+    {
+      "from": 307,
+      "to": 315
+    },
+    {
+      "from": 307,
+      "to": 316
+    },
+    {
+      "from": 306,
+      "to": 317
+    },
+    {
+      "from": 317,
+      "to": 318
+    },
+    {
+      "from": 317,
+      "to": 319
+    },
+    {
+      "from": 317,
+      "to": 320
+    },
+    {
+      "from": 317,
+      "to": 321
+    },
+    {
+      "from": 306,
+      "to": 322
+    },
+    {
+      "from": 322,
+      "to": 323
+    },
+    {
+      "from": 306,
+      "to": 324
+    },
+    {
+      "from": 324,
+      "to": 325
+    },
+    {
+      "from": 324,
+      "to": 326
+    },
+    {
+      "from": 326,
+      "to": 327
+    },
+    {
+      "from": 306,
+      "to": 328
+    },
+    {
+      "from": 328,
+      "to": 329
+    },
+    {
+      "from": 329,
+      "to": 330
+    },
+    {
+      "from": 328,
+      "to": 331
+    },
+    {
+      "from": 331,
+      "to": 332
+    },
+    {
+      "from": 328,
+      "to": 333
+    },
+    {
+      "from": 328,
+      "to": 334
+    },
+    {
+      "from": 334,
+      "to": 335
+    },
+    {
+      "from": 328,
+      "to": 336
+    },
+    {
+      "from": 336,
+      "to": 337
+    },
+    {
+      "from": 336,
+      "to": 338
+    },
+    {
+      "from": 336,
+      "to": 339
+    },
+    {
+      "from": 339,
+      "to": 340
+    },
+    {
+      "from": 0,
+      "to": 341
+    },
+    {
+      "from": 341,
+      "to": 342
+    },
+    {
+      "from": 342,
+      "to": 343
+    },
+    {
+      "from": 342,
+      "to": 344
+    },
+    {
+      "from": 342,
+      "to": 345
+    },
+    {
+      "from": 342,
+      "to": 346
+    },
+    {
+      "from": 342,
+      "to": 347
+    },
+    {
+      "from": 341,
+      "to": 348
+    },
+    {
+      "from": 341,
+      "to": 349
+    },
+    {
+      "from": 349,
+      "to": 350
+    },
+    {
+      "from": 350,
+      "to": 351
+    },
+    {
+      "from": 349,
+      "to": 352
+    },
+    {
+      "from": 349,
+      "to": 353
+    },
+    {
+      "from": 349,
+      "to": 354
+    },
+    {
+      "from": 341,
+      "to": 355
+    },
+    {
+      "from": 355,
+      "to": 356
+    },
+    {
+      "from": 355,
+      "to": 357
+    },
+    {
+      "from": 355,
+      "to": 358
+    },
+    {
+      "from": 355,
+      "to": 359
+    },
+    {
+      "from": 0,
+      "to": 360
+    },
+    {
+      "from": 360,
+      "to": 361
+    },
+    {
+      "from": 360,
+      "to": 362
+    },
+    {
+      "from": 362,
+      "to": 363
+    },
+    {
+      "from": 360,
+      "to": 364
+    },
+    {
+      "from": 360,
+      "to": 365
+    },
+    {
+      "from": 360,
+      "to": 366
+    }
+  ]
+}

@@ -29,11 +29,11 @@ def read_words_from_txt(file_path):
 
 def main():
     # Read the words from the TXT file
-    words = read_words_from_txt('/Organisatorisch/Evaluation/Konzepte.txt')
+    words = read_words_from_txt('../../Organisatorisch/Evaluation/Konzepte.txt')
 
     # Extract text from the PDF file
     pdf_text = extract_text_from_pdf(
-        '/Organisatorisch/Evaluation/NaturkatastrophenWirbelstürme,Beben,Vulkanausbrüche .pdf')
+        '../../Organisatorisch/Evaluation/NaturkatastrophenWirbelstürme,Beben,Vulkanausbrüche.pdf')
 
     # Compare the text with the words and count occurrences
     found_words = compare_text_with_words(pdf_text, words)
@@ -54,8 +54,8 @@ def main():
         file.write("Word\tOccurrences\n")
         for word, count in sorted_words:
             file.write(f"{word}\t{count}\n")
+        print(f"Results written results_Wirbelstürme,Beben,Vulkanausbrüche.txt")
 
-    print("Results written to results_individuelles_Verhalten_evaluation.txt")
 
 cwd = os.getcwd()
 print("Current working directory:", cwd)
