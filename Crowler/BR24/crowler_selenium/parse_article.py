@@ -7,9 +7,7 @@ import time
 
 def parse_article(driver, article_url):
     driver.get(article_url)
-
     article_content_selector = '#articlebody [class^="ArticleModuleText_content"]'
-
     WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, article_content_selector)))
     time.sleep(2)
     article_page = BeautifulSoup(driver.page_source, 'html.parser')

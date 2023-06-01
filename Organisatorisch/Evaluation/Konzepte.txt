@@ -366,6 +366,7 @@ Elementarschadenversicherung
 überflutete Straße
 Sachschaden
 Unwetterstörung Bahn- und Straßenverkehr
+//added manually
 Beben
 Versicherung
 Tote

@@ -5,9 +5,10 @@ def read_words_from_txt(file_path):
 
 def main():
     # Read the words from the TXT files
-    words1 = read_words_from_txt('/Users/kateryna_hamii/Bachelorarbeit_v2_fromGit/Organisatorisch/Graph_final/results_evaluation_im_fokus.txt')
-    words2 = read_words_from_txt('/Users/kateryna_hamii/Bachelorarbeit_v2_fromGit/Organisatorisch/Graph_final/results_individuelles_Verhalten_evaluation.txt')
-    words3 = read_words_from_txt('/Users/kateryna_hamii/Bachelorarbeit_v2_fromGit/Organisatorisch/Graph_final/results_Wirbelstürme,Beben,Vulkanausbrüche_evaluation.txt')
+    words1 = read_words_from_txt('/Organisatorisch/Evaluation/results_evaluation_im_fokus.txt')
+    words2 = read_words_from_txt('/Organisatorisch/Evaluation/results_individuelles_Verhalten_evaluation.txt')
+    words3 = read_words_from_txt(
+        '/Organisatorisch/Evaluation/results_Wirbelstürme,Beben,Vulkanausbrüche_evaluation.txt')
 
     # Find the common words among the text files
     common_words = words1.intersection(words2, words3)

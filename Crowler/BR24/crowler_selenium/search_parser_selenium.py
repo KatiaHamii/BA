@@ -59,7 +59,6 @@ def load_all_articles(_driver):
 
         if len(loading_placeholder) == 0:
             should_scroll_to_bottom = False
-        # wait.until(lambda driver: len(driver.find_elements(By.CSS_SELECTOR, search_result_selector)) > initial_count)
 
 
 for keyword in keywords:

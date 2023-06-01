@@ -29,10 +29,11 @@ def read_words_from_txt(file_path):
 
 def main():
     # Read the words from the TXT file
-    words = read_words_from_txt('/Users/kateryna_hamii/Bachelorarbeit_v2_fromGit/Organisatorisch/Graph_final/Konzepte.txt')
+    words = read_words_from_txt('/Organisatorisch/Evaluation/Konzepte.txt')
 
     # Extract text from the PDF file
-    pdf_text = extract_text_from_pdf('/Users/kateryna_hamii/Bachelorarbeit_v2_fromGit/Organisatorisch/Graph_final/NaturkatastrophenWirbelstürme,Beben,Vulkanausbrüche .pdf')
+    pdf_text = extract_text_from_pdf(
+        '/Organisatorisch/Evaluation/NaturkatastrophenWirbelstürme,Beben,Vulkanausbrüche .pdf')
 
     # Compare the text with the words and count occurrences
     found_words = compare_text_with_words(pdf_text, words)
@@ -49,7 +50,7 @@ def main():
 
     print("Found in Document:", len(sorted_words))
 
-    with open('../../Organisatorisch/Graph_final/results_Wirbelstürme,Beben,Vulkanausbrüche_evaluation.txt', 'w') as file:
+    with open('../../Organisatorisch/Evaluation/results_Wirbelstürme,Beben,Vulkanausbrüche_evaluation.txt', 'w') as file:
         file.write("Word\tOccurrences\n")
         for word, count in sorted_words:
             file.write(f"{word}\t{count}\n")
