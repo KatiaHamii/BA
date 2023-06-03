@@ -4,7 +4,8 @@
       "Geologische": {
         "Erdbeben": {
           "Erdbebenphänomen": {
-            "Erdbebebnschwam": {},
+            "verheerendes Erdbeben": {},
+            "Erdbebenschwarm": {},
             "Seismische Aktivität": {},
             "Nachbeben": {},
             "Epizentrum": {},
@@ -30,7 +31,7 @@
               }
             },
             "Verwerfung (Geologie)": {
-              "anthropogene Erdbeben": {
+              "anthropogenes Erdbeben": {
                 "Stausee-Erdbeben": {
                   "Sichuan-Erdbeben China 2008": {}
                 }
@@ -97,9 +98,10 @@
             "Schlotverschließung": {}
           },
           "Vulkanphänomen": {
-            "Krater": {},
+            "Vulkankrater": {},
             "Magma": {},
             "Eruption": {
+              "Vulkanausbruch": {},
               "strombolianische Eruption": {},
               "plinianische Eruption": {},
               "Eruptionssäule": {},
@@ -437,7 +439,7 @@
       "Frühwarnsystem": {
         "Wetterdienstbericht": {},
         "SMS-Warnsystem für Katastrophen": {},
-        "Deiche für Küstenstädte": {},
+        "Deich für Küstenstadt": {},
         "Erdbebenfrühwarnung": {},
         "KI-Warnsystem für Unwetterwarnung": {},
         "Luftrettungsstaffel": {
@@ -516,3 +518,4 @@
     }
   }
 }
+

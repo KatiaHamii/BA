@@ -178,7 +178,7 @@ webvowl =
 	    
 	    var that = this,
 	      collapsible = false,
-	      radius = 50,
+	      radius = 200,
 	      collapsingGroupElement,
 	      pinGroupElement,
 	      haloGroupElement = null,
