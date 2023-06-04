@@ -14,7 +14,7 @@ print("Current working directory:", cwd)
 lemmatizer = WordNetLemmatizer()
 
 # Datei mit dem Korpus einlesen
-with open('C:\\Users\\kater\\PycharmProjects\\Bachelorarbeit_v2_fromGIT\\Crawler\\BR24\\output\\CorpusItself\\combined_text.txt', 'r', encoding='utf-8') as file:
+with open('C:\\Users\\kater\\PycharmProjects\\Bachelorarbeit_v2_fromGIT\\CorpusAndCrawler\\BR24\\Korpus\\Subcorpora\\whole_corpus.txt', 'r', encoding='utf-8') as file:
     corpus = file.read().replace('\n', ' ').lower()
 
 # Laden der deutschen Stopwörter
@@ -90,7 +90,7 @@ wordInTrigram = [b for b in trigram if desired_word in b[0] or desired_word in b
 freq_dist = FreqDist(wordInTrigram)
 csv_header = ['Word', 'Frequency']
 
-with open(f"../BR24/output/lists_with_frequencies/viergram_freq_dist_combined_text_{desired_word}.csv", "w", encoding='utf-8') as csvfile:
+with open(f"../BR24/Korpus/lists_with_frequencies/viergram_freq_dist_combined_text_{desired_word}.csv", "w", encoding='utf-8') as csvfile:
     csvwriter = csv.writer(csvfile, quoting=csv.QUOTE_NONNUMERIC)
     csvwriter.writerow(csv_header)
     for word, freq in freq_dist.most_common():

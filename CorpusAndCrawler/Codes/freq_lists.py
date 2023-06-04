@@ -1,18 +1,16 @@
-import collections
 import os
-from string import punctuation
+import re
+
 import nltk
-from nltk import WordNetLemmatizer
 from nltk.corpus import stopwords
+from string import punctuation
+import csv
+
+nltk.download('stopwords')
 
 cwd = os.getcwd()
 print("Current working directory:", cwd)
-
-lemmatizer = WordNetLemmatizer()
-
-# Tokenize the corpus
-with open('/Users/kateryna_hamii/Bachelorarbeit/university/WiSe2022-2023/Bachelorarbeit/Crawler/BR24/output/corpus_lemmatized/lemmatized_corpus_erdbeben.txt', 'r') as file:
-    corpus = file.read().replace('\n', ' ').lower()
+# Load the German stop words from NLTK and add some additional words to exclude
 
 additional_stopwords = ['ab', 'ansonsten', 'außer', 'etwa', 'ganzen', 'irgend', 'irgendwo', 'je', 'jemals', 'jemand',
                         'manch', 'mindestens', 'sogar', 'sobald', 'solang', 'irgendwas', 'sogar', 'deren', 'dessen',
@@ -25,21 +23,32 @@ additional_stopwords = ['ab', 'ansonsten', 'außer', 'etwa', 'ganzen', 'irgend',
                         'mehrerer', 'mithilfe', 'nachdem', 'nimmermehr', 'nur noch', 'obgleich', 'obschon', 'ohnehin',
                         'nochmals', 'respektive', 'sodass', 'soweit', 'teilweise', 'vor allem', 'vorerst', 'vormals',
                         'weshalb', 'wieviel', 'wiederum', 'währenddessen', 'wohlweislich', 'wozu', 'zudem', 'zumal',
-                        'zurückhalten', 'zuzüglich', 'mehr', 'sei', 'seit', 'wurden', 'wurde', 'rund', 'seien', 'immer',
-                        ]
-unrelevant_words = ['br24', 'bearbeiten','quelltext', 'tippen','einfach', 'schlagwort', 'gibt', 'besonders', 'bisher',
-                    'letzten', 'nächsten', 'festgestellt', 'gilt', 'viele', 'kurz', 'allenfalls',
-                    'bereits', 'ganz', 'weitere', 'darüber', 'heute', 'gestern', 'schon', 'wäre', 'kam']
+                        'zurückhalten', 'zuzüglich', 'mehr', 'sei', 'seit', 'wurden', 'wurde', 'rund', 'seien', 'immer' ]
 
-stop_words = set(stopwords.words('german') + additional_stopwords + unrelevant_words)
-tokenized_text = nltk.word_tokenize(corpus)
+stop_words = set(stopwords.words('german') + additional_stopwords)
+print((stopwords.words('german')))
 
-corpus_text = nltk.Text(tokenized_text)
+with open('CorpusAndCrawler/BR24/Korpus/Subcorpora/whole_corpus.txt', 'r') as file:
+    corpus = file.read().replace('\n', ' ').lower()
 
-cleaned_words = nltk.Text([word for word in corpus_text if word not in stop_words and word not in punctuation and len(word) > 2])
+# Tokenize the corpus
+words = nltk.word_tokenize(corpus)
+# Exclude stop words, punctuation, and any word shorter than 3 characters
+words = [word for word in words if word not in stop_words and word not in punctuation and len(word) > 2]
 
-word_freqs = collections.Counter(corpus.split())
+fdist = nltk.FreqDist(words)
 
-# Print the 10 most frequent words
-for word, count in word_freqs.most_common():
-    print(word, count)
+text = ' '.join(words)
+# Find all matches in the text
+# matches = re.findall(pattern, text)
+
+# Print the matches
+# print(set(matches))
+# print(len(matches))
+with open('freq_dist_combined_text.csv', 'w', newline='') as csvfile:
+    csvwriter = csv.writer(csvfile)
+    csvwriter.writerow(['Word', 'Frequency'])
+    for word, freq in fdist.most_common():
+        csvwriter.writerow([word, freq])
+# Print the number of unique words in the frequency distribution
+print("Number of unique words:", len(fdist))

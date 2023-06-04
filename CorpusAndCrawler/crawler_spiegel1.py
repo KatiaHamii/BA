@@ -10,7 +10,7 @@ response = requests.get(url)
 soup = BeautifulSoup(response.content, 'html.parser')
 
 # find the main content of the page by class name
-content = soup.find('div', class_='mw-parser-output')
+content = soup.find('div', class_='mw-parser-Korpus')
 
 # remove the elements that are not needed
 for tag in content.select('.align-middle", p, .RichText RichText--sans leading-loose lg:text-xl md:text-xl sm:text-l lg:mb-32 md:mb-32 sm:mb-24,'):

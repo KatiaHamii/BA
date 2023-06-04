@@ -15,7 +15,7 @@ urls = [
 
 ]
 
-# open the output file for writing
+# open the Korpus file for writing
 with open('output.txt', 'w', encoding='utf-8') as outfile:
 
     # loop through the URLs
@@ -33,7 +33,7 @@ with open('output.txt', 'w', encoding='utf-8') as outfile:
         # extract the text from the selected elements
         text = ''.join([e.get_text() for e in elements])
 
-        # write the extracted text to the output file
+        # write the extracted text to the Korpus file
         outfile.write(text)
 
         # add a separator between pages

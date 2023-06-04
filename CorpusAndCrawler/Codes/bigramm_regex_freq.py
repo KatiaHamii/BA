@@ -14,7 +14,7 @@ print("Current working directory:", cwd)
 lemmatizer = WordNetLemmatizer()
 
 # Tokenize the corpus
-with open('/Crawler/BR24/output/CorpusItself/combined_text.txt', 'r') as file:
+with open('/CorpusAndCrawler/BR24/Korpus/Subcorpora/whole_corpus.txt', 'r') as file:
     corpus = file.read().replace('\n', ' ').lower()
 
 additional_stopwords = ['ab', 'ansonsten', 'außer', 'etwa', 'ganzen', 'irgend', 'irgendwo', 'je', 'jemals', 'jemand',
@@ -68,7 +68,7 @@ fdist = nltk.FreqDist(erd_bigrm)
 csv_header = ['Word', 'Frequency']
 
 with open(
-        '../BR24/output/lists_with_frequencies/freq_dict_lemmatized/bigram/freq_dist_combined_text_lemmatized_dürre.csv', 'w',
+        '../BR24/Korpus/lists_with_frequencies/freq_dict_lemmatized/bigram/freq_dist_combined_text_lemmatized_dürre.csv', 'w',
         encoding='utf-8') as csvfile:
     csvwriter = csv.writer(csvfile, quoting=csv.QUOTE_NONNUMERIC)
     csvwriter.writerow(csv_header)

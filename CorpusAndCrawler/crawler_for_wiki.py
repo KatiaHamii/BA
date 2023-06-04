@@ -59,7 +59,7 @@ for url in urls:
     soup = BeautifulSoup(response.content, 'html.parser')
 
     # find the main content of the page by class name
-    content = soup.find('div', class_='mw-parser-output')
+    content = soup.find('div', class_='mw-parser-Korpus')
 
     # check if content exists
     if content:
