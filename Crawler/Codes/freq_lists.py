@@ -28,7 +28,7 @@ additional_stopwords = ['ab', 'ansonsten', 'außer', 'etwa', 'ganzen', 'irgend',
 stop_words = set(stopwords.words('german') + additional_stopwords)
 print((stopwords.words('german')))
 
-with open('Crowler/BR24/output/CorpusItself/combined_text.txt', 'r') as file:
+with open('Crawler/BR24/output/CorpusItself/combined_text.txt', 'r') as file:
     corpus = file.read().replace('\n', ' ').lower()
 
 # Tokenize the corpus

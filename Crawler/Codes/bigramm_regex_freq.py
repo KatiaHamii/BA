@@ -14,7 +14,7 @@ print("Current working directory:", cwd)
 lemmatizer = WordNetLemmatizer()
 
 # Tokenize the corpus
-with open('/Crowler/BR24/output/CorpusItself/combined_text.txt', 'r') as file:
+with open('/Crawler/BR24/output/CorpusItself/combined_text.txt', 'r') as file:
     corpus = file.read().replace('\n', ' ').lower()
 
 additional_stopwords = ['ab', 'ansonsten', 'außer', 'etwa', 'ganzen', 'irgend', 'irgendwo', 'je', 'jemals', 'jemand',

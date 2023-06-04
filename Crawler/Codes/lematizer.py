@@ -10,7 +10,7 @@ print("Current working directory:", cwd)
 nlp = spacy.load('de_core_news_sm')
 
 # read in corpus from file
-with open('/Users/kateryna_hamii/Bachelorarbeit/university/WiSe2022-2023/Bachelorarbeit/Crowler/BR24/output'
+with open('/Users/kateryna_hamii/Bachelorarbeit/university/WiSe2022-2023/Bachelorarbeit/Crawler/BR24/output'
           '/CorpusItself/Flutkatastrophen.txt', 'r', encoding='utf-8') as file:
     corpus = file.read()
 

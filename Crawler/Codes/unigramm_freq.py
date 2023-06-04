@@ -11,7 +11,7 @@ print("Current working directory:", cwd)
 lemmatizer = WordNetLemmatizer()
 
 # Tokenize the corpus
-with open('/Users/kateryna_hamii/Bachelorarbeit/university/WiSe2022-2023/Bachelorarbeit/Crowler/BR24/output/corpus_lemmatized/lemmatized_corpus_erdbeben.txt', 'r') as file:
+with open('/Users/kateryna_hamii/Bachelorarbeit/university/WiSe2022-2023/Bachelorarbeit/Crawler/BR24/output/corpus_lemmatized/lemmatized_corpus_erdbeben.txt', 'r') as file:
     corpus = file.read().replace('\n', ' ').lower()
 
 additional_stopwords = ['ab', 'ansonsten', 'außer', 'etwa', 'ganzen', 'irgend', 'irgendwo', 'je', 'jemals', 'jemand',

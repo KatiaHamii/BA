@@ -1,4 +1,4 @@
-with open('/Users/kateryna_hamii/Bachelorarbeit/university/WiSe2022-2023/Bachelorarbeit/Crowler/BR24/output/CorpusItself/Hitze.txt', 'r') as f:
+with open('/Users/kateryna_hamii/Bachelorarbeit/university/WiSe2022-2023/Bachelorarbeit/Crawler/BR24/output/CorpusItself/Hitze.txt', 'r') as f:
     text = f.read()
 
 # Split the text into two parts
