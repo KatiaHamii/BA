@@ -7,1837 +7,2587 @@
     {
       "id": 1,
       "word": "Art von Naturkatastrophe",
-      "parentId": 0
+      "parentIds": [
+        0
+      ]
     },
     {
       "id": 2,
       "word": "Geologische",
-      "parentId": 1
+      "parentIds": [
+        1
+      ]
     },
     {
       "id": 3,
       "word": "Erdbeben",
-      "parentId": 2
+      "parentIds": [
+        2
+      ]
     },
     {
       "id": 4,
       "word": "Erdbebenphänomen",
-      "parentId": 3
+      "parentIds": [
+        3
+      ]
     },
     {
       "id": 5,
       "word": "verheerendes Erdbeben",
-      "parentId": 4
+      "parentIds": [
+        4
+      ]
     },
     {
       "id": 6,
       "word": "Erdbebenschwarm",
-      "parentId": 4
+      "parentIds": [
+        4
+      ]
     },
     {
       "id": 7,
       "word": "Seismische Aktivität",
-      "parentId": 4
+      "parentIds": [
+        4
+      ]
     },
     {
       "id": 8,
       "word": "Nachbeben",
-      "parentId": 4
+      "parentIds": [
+        4
+      ]
     },
     {
       "id": 9,
       "word": "Epizentrum",
-      "parentId": 4
+      "parentIds": [
+        4
+      ]
     },
     {
       "id": 10,
       "word": "Hauptbeben",
-      "parentId": 4
+      "parentIds": [
+        4
+      ]
     },
     {
       "id": 11,
       "word": "Hypozentrum",
-      "parentId": 4
+      "parentIds": [
+        4
+      ]
     },
     {
       "id": 12,
       "word": "Vorbeben",
-      "parentId": 4
+      "parentIds": [
+        4
+      ]
     },
     {
       "id": 13,
       "word": "Seebeben",
-      "parentId": 4
+      "parentIds": [
+        4
+      ]
     },
     {
       "id": 14,
       "word": "Tsunami",
-      "parentId": 13
+      "parentIds": [
+        13,
+        80,
+        2,
+        302
+      ]
     },
     {
       "id": 15,
       "word": "Erdstoß",
-      "parentId": 4
+      "parentIds": [
+        4
+      ]
     },
     {
       "id": 16,
       "word": "Erdbebenursche",
-      "parentId": 3
+      "parentIds": [
+        3
+      ]
     },
     {
       "id": 17,
       "word": "Erdkruste",
-      "parentId": 16
+      "parentIds": [
+        16
+      ]
     },
     {
       "id": 18,
       "word": "Tiefherdbeben",
-      "parentId": 17
+      "parentIds": [
+        17
+      ]
     },
     {
       "id": 19,
       "word": "platektonischer Prozess",
-      "parentId": 16
+      "parentIds": [
+        16
+      ]
     },
     {
       "id": 20,
       "word": "Kontinentalplattendrift",
-      "parentId": 19
+      "parentIds": [
+        19
+      ]
     },
     {
       "id": 21,
       "word": "Bewegung von Lithosphärenplatten",
-      "parentId": 20
+      "parentIds": [
+        20
+      ]
     },
     {
       "id": 22,
       "word": "Spreizungszone",
-      "parentId": 21
+      "parentIds": [
+        21
+      ]
     },
     {
       "id": 23,
       "word": "Subduktion (Plattentektonik)",
-      "parentId": 21
+      "parentIds": [
+        21
+      ]
     },
     {
       "id": 24,
       "word": "Transformverwerfung",
-      "parentId": 21
+      "parentIds": [
+        21
+      ]
     },
     {
       "id": 25,
       "word": "Verwerfung (Geologie)",
-      "parentId": 16
+      "parentIds": [
+        16
+      ]
     },
     {
       "id": 26,
       "word": "anthropogenes Erdbeben",
-      "parentId": 25
+      "parentIds": [
+        25
+      ]
     },
     {
       "id": 27,
       "word": "Stausee-Erdbeben",
-      "parentId": 26
+      "parentIds": [
+        26
+      ]
     },
     {
       "id": 28,
       "word": "Sichuan-Erdbeben China 2008",
-      "parentId": 27
+      "parentIds": [
+        27
+      ]
     },
     {
       "id": 29,
       "word": "Erdbebenfolge",
-      "parentId": 3
+      "parentIds": [
+        3
+      ]
     },
     {
       "id": 30,
       "word": "Erdbebenschaden",
-      "parentId": 29
+      "parentIds": [
+        29
+      ]
     },
     {
       "id": 31,
       "word": "Gebäudezerstörung durch Erdbeben",
-      "parentId": 30
+      "parentIds": [
+        30
+      ]
     },
     {
       "id": 32,
       "word": "Infrastrukturschaden durch Erdbeben",
-      "parentId": 30
+      "parentIds": [
+        30
+      ]
     },
     {
       "id": 33,
       "word": "witschaftliche Schaden",
-      "parentId": 30
+      "parentIds": [
+        30
+      ]
     },
     {
       "id": 34,
       "word": "Vulkanuasbruch",
-      "parentId": 30
+      "parentIds": [
+        30
+      ]
     },
     {
       "id": 35,
       "word": "Erdbebenopfer",
-      "parentId": 29
+      "parentIds": [
+        29
+      ]
     },
     {
       "id": 36,
       "word": "Erdbebensuche",
-      "parentId": 35
+      "parentIds": [
+        35
+      ]
     },
     {
       "id": 37,
       "word": "Anzahl Erdbebenbetroffenen",
-      "parentId": 35
+      "parentIds": [
+        35
+      ]
     },
     {
       "id": 38,
       "word": "Erdbeben-Tote",
-      "parentId": 37
+      "parentIds": [
+        37
+      ]
     },
     {
       "id": 39,
       "word": "Verletzte in Syrien",
-      "parentId": 37
+      "parentIds": [
+        37
+      ]
     },
     {
       "id": 40,
       "word": "Vermisste im Erdbebengebiet",
-      "parentId": 37
+      "parentIds": [
+        37
+      ]
     },
     {
       "id": 41,
       "word": "Erdbebenforschung",
-      "parentId": 3
+      "parentIds": [
+        3
+      ]
     },
     {
       "id": 42,
       "word": "Erdbebenmessung",
-      "parentId": 41
+      "parentIds": [
+        41
+      ]
     },
     {
       "id": 43,
       "word": "Seismograph",
-      "parentId": 42
+      "parentIds": [
+        42
+      ]
     },
     {
       "id": 44,
       "word": "Erdbebenwelle",
-      "parentId": 43
+      "parentIds": [
+        43
+      ]
     },
     {
       "id": 45,
       "word": "P-Welle (Seismische Welle)",
-      "parentId": 44
+      "parentIds": [
+        44
+      ]
     },
     {
       "id": 46,
       "word": "S-Welle ( (Seismische Welle)",
-      "parentId": 44
+      "parentIds": [
+        44
+      ]
     },
     {
       "id": 47,
       "word": "Oberflächenwelle (Seismische Welle)",
-      "parentId": 44
+      "parentIds": [
+        44
+      ]
     },
     {
       "id": 48,
       "word": "Erdbebenstärke",
-      "parentId": 42
+      "parentIds": [
+        42
+      ]
     },
     {
       "id": 49,
       "word": "Intensität",
-      "parentId": 48
+      "parentIds": [
+        48
+      ]
     },
     {
       "id": 50,
       "word": "Mercalliskala",
-      "parentId": 49
+      "parentIds": [
+        49
+      ]
     },
     {
       "id": 51,
       "word": "MSK-Skala (EMS-Skala)",
-      "parentId": 49
+      "parentIds": [
+        49
+      ]
     },
     {
       "id": 52,
       "word": "Magnitude",
-      "parentId": 48
+      "parentIds": [
+        48
+      ]
     },
     {
       "id": 53,
       "word": "Richterskala",
-      "parentId": 52
+      "parentIds": [
+        52
+      ]
     },
     {
       "id": 54,
       "word": "Moment-Magnituden-Skala",
-      "parentId": 52
+      "parentIds": [
+        52
+      ]
     },
     {
       "id": 55,
       "word": "Erdbebengefährdung",
-      "parentId": 3
+      "parentIds": [
+        3
+      ]
     },
     {
       "id": 56,
       "word": "Risiko",
-      "parentId": 55
+      "parentIds": [
+        55
+      ]
     },
     {
       "id": 57,
       "word": "Erdbebengebiet",
-      "parentId": 55
+      "parentIds": [
+        55
+      ]
     },
     {
       "id": 58,
       "word": "Erdbeben in Türkein",
-      "parentId": 57
+      "parentIds": [
+        57
+      ]
     },
     {
       "id": 59,
       "word": "Erdbeben in Syrien",
-      "parentId": 57
+      "parentIds": [
+        57
+      ]
     },
     {
       "id": 60,
       "word": "Erdbeben im Indischen Ozean 2004",
-      "parentId": 57
+      "parentIds": [
+        57,
+        109
+      ]
     },
     {
       "id": 61,
       "word": "Seebeben vor Java Juli 2006",
-      "parentId": 57
+      "parentIds": [
+        57,
+        109
+      ]
     },
     {
       "id": 62,
       "word": "Großes Alaska-Beben",
-      "parentId": 57
+      "parentIds": [
+        57
+      ]
     },
     {
       "id": 63,
       "word": "Erdbebenschutzmaßnahme",
-      "parentId": 3
+      "parentIds": [
+        3
+      ]
     },
     {
       "id": 64,
       "word": "EU-Satellitensystem Copernicus",
-      "parentId": 63
+      "parentIds": [
+        63
+      ]
     },
     {
       "id": 65,
       "word": "bauen erdbebensicheres Gebäude",
-      "parentId": 63
+      "parentIds": [
+        63
+      ]
     },
     {
       "id": 66,
       "word": "Bauvorschrift für erdbebensicheres/erdbebenreches Bauen",
-      "parentId": 63
+      "parentIds": [
+        63
+      ]
     },
     {
       "id": 67,
       "word": "Erdbeben-Monitoring-Dienst",
-      "parentId": 63
+      "parentIds": [
+        63
+      ]
     },
     {
       "id": 68,
       "word": "Vulkanausbruch",
-      "parentId": 2
+      "parentIds": [
+        2,
+        75
+      ]
     },
     {
       "id": 69,
       "word": "Beruhigung der Lage: Prognose",
-      "parentId": 68
+      "parentIds": [
+        68
+      ]
     },
     {
       "id": 70,
       "word": "Entleerung des Magma-Kraters",
-      "parentId": 69
+      "parentIds": [
+        69
+      ]
     },
     {
       "id": 71,
       "word": "Schlotverschließung",
-      "parentId": 69
+      "parentIds": [
+        69
+      ]
     },
     {
       "id": 72,
       "word": "Vulkanphänomen",
-      "parentId": 68
+      "parentIds": [
+        68
+      ]
     },
     {
       "id": 73,
       "word": "Vulkankrater",
-      "parentId": 72
+      "parentIds": [
+        72
+      ]
     },
     {
       "id": 74,
       "word": "Magma",
-      "parentId": 72
+      "parentIds": [
+        72
+      ]
     },
     {
       "id": 75,
       "word": "Eruption",
-      "parentId": 72
+      "parentIds": [
+        72
+      ]
     },
     {
       "id": 76,
       "word": "strombolianische Eruption",
-      "parentId": 75
+      "parentIds": [
+        75
+      ]
     },
     {
       "id": 77,
       "word": "plinianische Eruption",
-      "parentId": 75
+      "parentIds": [
+        75
+      ]
     },
     {
       "id": 78,
       "word": "Eruptionssäule",
-      "parentId": 75
+      "parentIds": [
+        75
+      ]
     },
     {
       "id": 79,
       "word": "vulkanische Bombe",
-      "parentId": 75
+      "parentIds": [
+        75
+      ]
     },
     {
       "id": 80,
       "word": "von Vulkan ausgelöstes Ereignis",
-      "parentId": 68
+      "parentIds": [
+        68
+      ]
     },
     {
       "id": 81,
       "word": "Lahar",
-      "parentId": 80
+      "parentIds": [
+        80
+      ]
     },
     {
       "id": 82,
       "word": "pyroklastischer Strom",
-      "parentId": 80
+      "parentIds": [
+        80
+      ]
     },
     {
       "id": 83,
       "word": "Gletscher",
-      "parentId": 80
+      "parentIds": [
+        80
+      ]
     },
     {
       "id": 84,
       "word": "Gerölllawine",
-      "parentId": 80
+      "parentIds": [
+        80
+      ]
     },
     {
       "id": 85,
       "word": "Vulkantyp",
-      "parentId": 68
+      "parentIds": [
+        68
+      ]
     },
     {
       "id": 86,
       "word": "Schichtvulkan",
-      "parentId": 85
+      "parentIds": [
+        85
+      ]
     },
     {
       "id": 87,
       "word": "Schildvulkan",
-      "parentId": 85
+      "parentIds": [
+        85
+      ]
     },
     {
       "id": 88,
       "word": "komplexer Vulkan",
-      "parentId": 85
+      "parentIds": [
+        85
+      ]
     },
     {
       "id": 89,
       "word": "Schlackenkegel",
-      "parentId": 85
+      "parentIds": [
+        85
+      ]
     },
     {
       "id": 90,
       "word": "Spaltenvulkan",
-      "parentId": 85
+      "parentIds": [
+        85
+      ]
     },
     {
       "id": 91,
       "word": "Kraterreihe",
-      "parentId": 85
+      "parentIds": [
+        85
+      ]
     },
     {
       "id": 92,
       "word": "Maar",
-      "parentId": 85
+      "parentIds": [
+        85
+      ]
     },
     {
       "id": 93,
       "word": "submariner Vulkan",
-      "parentId": 85
+      "parentIds": [
+        85
+      ]
     },
     {
       "id": 94,
       "word": "Vulkanfeld",
-      "parentId": 85
+      "parentIds": [
+        85
+      ]
     },
     {
       "id": 95,
       "word": "Vorhersage von Vulkanausbruch",
-      "parentId": 68
+      "parentIds": [
+        68
+      ]
     },
     {
       "id": 96,
       "word": "Aufzeichnung seismischer Aktivität",
-      "parentId": 95
+      "parentIds": [
+        95
+      ]
     },
     {
       "id": 97,
       "word": "Geodätische Überwachung",
-      "parentId": 95
+      "parentIds": [
+        95
+      ]
     },
     {
       "id": 98,
       "word": "Messung gravimetrischer und magnetometrischer Veränderung",
-      "parentId": 95
+      "parentIds": [
+        95
+      ]
     },
     {
       "id": 99,
       "word": "Erfassung von Temperaturerhöhungen",
-      "parentId": 95
+      "parentIds": [
+        95
+      ]
     },
     {
       "id": 100,
       "word": "Betroffenes Gebiet",
-      "parentId": 68
+      "parentIds": [
+        68
+      ]
     },
     {
       "id": 101,
       "word": "Indonesien überzogen von Vulkanen (Hauptinsel Java)",
-      "parentId": 100
+      "parentIds": [
+        100
+      ]
     },
     {
       "id": 102,
       "word": "Vulkanausbruch auf La Palma",
-      "parentId": 100
+      "parentIds": [
+        100
+      ]
     },
     {
       "id": 103,
       "word": "Abfolge besonders langer Wasserwellen",
-      "parentId": 14
+      "parentIds": [
+        14
+      ]
     },
     {
       "id": 104,
       "word": "Tsunamiursache",
-      "parentId": 14
+      "parentIds": [
+        14
+      ]
     },
     {
       "id": 105,
       "word": "unterseeisches Erdbeben",
-      "parentId": 104
+      "parentIds": [
+        104
+      ]
     },
     {
       "id": 106,
       "word": "Hineinrutschen großer Erd- und Gesteinsmassen ins Wasser",
-      "parentId": 104
+      "parentIds": [
+        104
+      ]
     },
     {
       "id": 107,
       "word": "künstlich hervorgerufene Explosion",
-      "parentId": 104
+      "parentIds": [
+        104
+      ]
     },
     {
       "id": 108,
       "word": "Einschlag eines Himmelskörpers",
-      "parentId": 104
+      "parentIds": [
+        104
+      ]
     },
     {
       "id": 109,
       "word": "Tsunamigefahrenzone",
-      "parentId": 14
+      "parentIds": [
+        14
+      ]
     },
     {
       "id": 110,
       "word": "Tsunamischutz",
-      "parentId": 14
+      "parentIds": [
+        14
+      ]
     },
     {
       "id": 111,
       "word": "Frühwarnsystem im Japan",
-      "parentId": 110
+      "parentIds": [
+        110
+      ]
     },
     {
       "id": 112,
       "word": "Malaysian National Tsunami Early Warning System (MNTEWS)",
-      "parentId": 110
+      "parentIds": [
+        110
+      ]
     },
     {
       "id": 113,
       "word": "Meteorologische",
-      "parentId": 1
+      "parentIds": [
+        1
+      ]
     },
     {
       "id": 114,
       "word": "Hurrikan",
-      "parentId": 113
+      "parentIds": [
+        113
+      ]
     },
     {
       "id": 115,
       "word": "Hurrikanfolge",
-      "parentId": 114
+      "parentIds": [
+        114
+      ]
     },
     {
       "id": 116,
       "word": "Sturmflut",
-      "parentId": 115
+      "parentIds": [
+        115,
+        268
+      ]
     },
     {
       "id": 117,
       "word": "Windbruch",
-      "parentId": 115
+      "parentIds": [
+        115
+      ]
     },
     {
       "id": 118,
       "word": "Küstenerosion",
-      "parentId": 115
+      "parentIds": [
+        115
+      ]
     },
     {
       "id": 119,
       "word": "Erdrutsch",
-      "parentId": 115
+      "parentIds": [
+        115,
+        182
+      ]
     },
     {
       "id": 120,
       "word": "Sturzflut",
-      "parentId": 115
+      "parentIds": [
+        115,
+        268
+      ]
     },
     {
       "id": 121,
       "word": "Überschwemmung",
-      "parentId": 115
+      "parentIds": [
+        115,
+        266
+      ]
     },
     {
       "id": 122,
       "word": "Hurrikaneigenschaft",
-      "parentId": 114
+      "parentIds": [
+        114
+      ]
     },
     {
       "id": 123,
       "word": "Wirbelsturm",
-      "parentId": 122
+      "parentIds": [
+        122
+      ]
     },
     {
       "id": 124,
       "word": "Zyklon",
-      "parentId": 123
+      "parentIds": [
+        123
+      ]
     },
     {
       "id": 125,
       "word": "im Indischen Ozean und Südpazifik",
-      "parentId": 124
+      "parentIds": [
+        124
+      ]
     },
     {
       "id": 126,
       "word": "hohe Windgeschwindigkeit",
-      "parentId": 122
+      "parentIds": [
+        122
+      ]
     },
     {
       "id": 127,
       "word": "Hurrikanzentrum",
-      "parentId": 122
+      "parentIds": [
+        122
+      ]
     },
     {
       "id": 128,
       "word": "Tornado",
-      "parentId": 113
+      "parentIds": [
+        113
+      ]
     },
     {
       "id": 129,
       "word": "Mesozyklonaler Tornado",
-      "parentId": 128
+      "parentIds": [
+        128
+      ]
     },
     {
       "id": 130,
       "word": "Mesozyklon",
-      "parentId": 129
+      "parentIds": [
+        129
+      ]
     },
     {
       "id": 131,
       "word": "Sturzregen",
-      "parentId": 129
+      "parentIds": [
+        129
+      ]
     },
     {
       "id": 132,
       "word": "Gewitterfallböe",
-      "parentId": 129
+      "parentIds": [
+        129
+      ]
     },
     {
       "id": 133,
       "word": "Nicht-mesozyklonaler Tornado",
-      "parentId": 128
+      "parentIds": [
+        128
+      ]
     },
     {
       "id": 134,
       "word": "Tornadoursache",
-      "parentId": 128
+      "parentIds": [
+        128
+      ]
     },
     {
       "id": 135,
       "word": "Superzelle",
-      "parentId": 134
+      "parentIds": [
+        134
+      ]
     },
     {
       "id": 136,
       "word": "Starkregen",
-      "parentId": 135
+      "parentIds": [
+        135,
+        266,
+        279
+      ]
     },
     {
       "id": 137,
       "word": "Tornadofolge",
-      "parentId": 128
+      "parentIds": [
+        128
+      ]
     },
     {
       "id": 138,
       "word": "umgestürzter Baum",
-      "parentId": 137
+      "parentIds": [
+        137
+      ]
     },
     {
       "id": 139,
       "word": "abgerissene Stromleitung",
-      "parentId": 137
+      "parentIds": [
+        137
+      ]
     },
     {
       "id": 140,
       "word": "Tornado in Alabama",
-      "parentId": 128
+      "parentIds": [
+        128
+      ]
     },
     {
       "id": 141,
       "word": "Tornadoerkennung",
-      "parentId": 128
+      "parentIds": [
+        128
+      ]
     },
     {
       "id": 142,
       "word": "Luftwirbel",
-      "parentId": 141
+      "parentIds": [
+        141
+      ]
     },
     {
       "id": 143,
       "word": "rotierende Luftmasse",
-      "parentId": 141
+      "parentIds": [
+        141
+      ]
     },
     {
       "id": 144,
       "word": "Fujita-Skala",
-      "parentId": 141
+      "parentIds": [
+        141
+      ]
     },
     {
       "id": 145,
       "word": "TORRO-Skala",
-      "parentId": 141
+      "parentIds": [
+        141
+      ]
     },
     {
       "id": 146,
       "word": "Dürre",
-      "parentId": 113
+      "parentIds": [
+        113
+      ]
     },
     {
       "id": 147,
       "word": "Hitzewelle",
-      "parentId": 146
+      "parentIds": [
+        146,
+        226
+      ]
     },
     {
       "id": 148,
       "word": "Dürreereignis",
-      "parentId": 146
+      "parentIds": [
+        146
+      ]
     },
     {
       "id": 149,
       "word": "Dürremonitor",
-      "parentId": 148
+      "parentIds": [
+        148
+      ]
     },
     {
       "id": 150,
       "word": "Dürre-Notstand",
-      "parentId": 148
+      "parentIds": [
+        148
+      ]
     },
     {
       "id": 151,
       "word": "Dürregefahr",
-      "parentId": 148
+      "parentIds": [
+        148
+      ]
     },
     {
       "id": 152,
       "word": "Dürresituation",
-      "parentId": 148
+      "parentIds": [
+        148
+      ]
     },
     {
       "id": 153,
       "word": "Dürreproblem",
-      "parentId": 148
+      "parentIds": [
+        148
+      ]
     },
     {
       "id": 154,
       "word": "Dürreszenario",
-      "parentId": 148
+      "parentIds": [
+        148
+      ]
     },
     {
       "id": 155,
       "word": "dürrebedingt",
-      "parentId": 148
+      "parentIds": [
+        148
+      ]
     },
     {
       "id": 156,
       "word": "Typologie von Dürreereignissen",
-      "parentId": 146
+      "parentIds": [
+        146
+      ]
     },
     {
       "id": 157,
       "word": "meteorologische Dürre",
-      "parentId": 156
+      "parentIds": [
+        156
+      ]
     },
     {
       "id": 158,
       "word": "hydrologische Dürre",
-      "parentId": 156
+      "parentIds": [
+        156
+      ]
     },
     {
       "id": 159,
       "word": "landwirtschaftliche Dürre",
-      "parentId": 156
+      "parentIds": [
+        156
+      ]
     },
     {
       "id": 160,
       "word": "sozio-ökonomische Dürre",
-      "parentId": 156
+      "parentIds": [
+        156
+      ]
     },
     {
       "id": 161,
       "word": "Dürreperiode",
-      "parentId": 146
+      "parentIds": [
+        146
+      ]
     },
     {
       "id": 162,
       "word": "Dürrejahr",
-      "parentId": 161
+      "parentIds": [
+        161
+      ]
     },
     {
       "id": 163,
       "word": "Dürresommer",
-      "parentId": 161
+      "parentIds": [
+        161
+      ]
     },
     {
       "id": 164,
       "word": "Palmer-Dürre-Index",
-      "parentId": 146
+      "parentIds": [
+        146
+      ]
     },
     {
       "id": 165,
       "word": "Dürrenschaden",
-      "parentId": 146
+      "parentIds": [
+        146
+      ]
     },
     {
       "id": 166,
       "word": "geringere Ernten, hohe Preise für geernteten Güter",
-      "parentId": 165
+      "parentIds": [
+        165
+      ]
     },
     {
       "id": 167,
       "word": "Engpässe in der Stromversorgung",
-      "parentId": 165
+      "parentIds": [
+        165
+      ]
     },
     {
       "id": 168,
       "word": "Bodenerosion",
-      "parentId": 165
+      "parentIds": [
+        165
+      ]
     },
     {
       "id": 169,
       "word": "schlimmste Dürre des Jahrtausends, Deutschland, 1540",
-      "parentId": 165
+      "parentIds": [
+        165
+      ]
     },
     {
       "id": 170,
       "word": "schneearmer Winter",
-      "parentId": 165
+      "parentIds": [
+        165
+      ]
     },
     {
       "id": 171,
       "word": "Waldbrand",
-      "parentId": 113
+      "parentIds": [
+        113
+      ]
     },
     {
       "id": 172,
       "word": "Waldbrandgefahr",
-      "parentId": 171
+      "parentIds": [
+        171
+      ]
     },
     {
       "id": 173,
       "word": "Waldbrandgefahrenstufe",
-      "parentId": 171
+      "parentIds": [
+        171
+      ]
     },
     {
       "id": 174,
       "word": "Waldbrandstatistik",
-      "parentId": 171
+      "parentIds": [
+        171
+      ]
     },
     {
       "id": 175,
       "word": "Waldbrand-Beobachtungssystem",
-      "parentId": 171
+      "parentIds": [
+        171
+      ]
     },
     {
       "id": 176,
       "word": "Waldbrandüberwachungsflug",
-      "parentId": 175
+      "parentIds": [
+        175
+      ]
     },
     {
       "id": 177,
       "word": "Waldbrandjahr",
-      "parentId": 171
+      "parentIds": [
+        171
+      ]
     },
     {
       "id": 178,
       "word": "Waldbrandausrüstung",
-      "parentId": 171
+      "parentIds": [
+        171
+      ]
     },
     {
       "id": 179,
       "word": "Waldbrandbekämpfung",
-      "parentId": 178
+      "parentIds": [
+        178
+      ]
     },
     {
       "id": 180,
       "word": "Hydrologische",
-      "parentId": 1
+      "parentIds": [
+        1
+      ]
     },
     {
       "id": 181,
       "word": "Lawine",
-      "parentId": 180
+      "parentIds": [
+        180,
+        214,
+        286
+      ]
     },
     {
       "id": 182,
       "word": "Naturkatastrophenursache",
-      "parentId": 181
+      "parentIds": [
+        181,
+        0
+      ]
     },
     {
       "id": 183,
       "word": "Lawinenauslöser",
-      "parentId": 181
+      "parentIds": [
+        181
+      ]
     },
     {
       "id": 184,
       "word": "Schwachschicht",
-      "parentId": 183
+      "parentIds": [
+        183
+      ]
     },
     {
       "id": 185,
       "word": "Schneebrett",
-      "parentId": 184
+      "parentIds": [
+        184
+      ]
     },
     {
       "id": 186,
       "word": "menschliche Aktivität",
-      "parentId": 183
+      "parentIds": [
+        183
+      ]
     },
     {
       "id": 187,
       "word": "Schneeschuhwanderer",
-      "parentId": 186
+      "parentIds": [
+        186
+      ]
     },
     {
       "id": 188,
       "word": "Gleitschneelawine",
-      "parentId": 183
+      "parentIds": [
+        183
+      ]
     },
     {
       "id": 189,
       "word": "Lockerschneelawine",
-      "parentId": 183
+      "parentIds": [
+        183
+      ]
     },
     {
       "id": 190,
       "word": "Schneedecke",
-      "parentId": 181
+      "parentIds": [
+        181
+      ]
     },
     {
       "id": 191,
       "word": "großer Temperaturuntteschied",
-      "parentId": 190
+      "parentIds": [
+        190
+      ]
     },
     {
       "id": 192,
       "word": "Schneekörner",
-      "parentId": 190
+      "parentIds": [
+        190
+      ]
     },
     {
       "id": 193,
       "word": "Schneekristall",
-      "parentId": 192
+      "parentIds": [
+        192
+      ]
     },
     {
       "id": 194,
       "word": "vereiste Rutschfläche",
-      "parentId": 190
+      "parentIds": [
+        190
+      ]
     },
     {
       "id": 195,
       "word": "Schneeprofil",
-      "parentId": 190
+      "parentIds": [
+        190
+      ]
     },
     {
       "id": 196,
       "word": "Sicherheitausrüstung für Skitouren",
-      "parentId": 181
+      "parentIds": [
+        181
+      ]
     },
     {
       "id": 197,
       "word": "Lawinenairbag",
-      "parentId": 196
+      "parentIds": [
+        196
+      ]
     },
     {
       "id": 198,
       "word": "Lawinenschaufel",
-      "parentId": 196
+      "parentIds": [
+        196
+      ]
     },
     {
       "id": 199,
       "word": "Lawinensond",
-      "parentId": 196
+      "parentIds": [
+        196
+      ]
     },
     {
       "id": 200,
       "word": "Lawinenverschüttetensuchgerät (LVS)",
-      "parentId": 196
+      "parentIds": [
+        196
+      ]
     },
     {
       "id": 201,
       "word": "Lawinen-Rucksack",
-      "parentId": 196
+      "parentIds": [
+        196
+      ]
     },
     {
       "id": 202,
       "word": "Lawinendienst",
-      "parentId": 181
+      "parentIds": [
+        181
+      ]
     },
     {
       "id": 203,
       "word": "Rettungskraft",
-      "parentId": 202
+      "parentIds": [
+        202
+      ]
     },
     {
       "id": 204,
       "word": "Lawinenrettungsgruppe",
-      "parentId": 203
+      "parentIds": [
+        203
+      ]
     },
     {
       "id": 205,
       "word": "Lawinenopfer",
-      "parentId": 181
+      "parentIds": [
+        181
+      ]
     },
     {
       "id": 206,
       "word": "Verschüttete",
-      "parentId": 205
+      "parentIds": [
+        205
+      ]
     },
     {
       "id": 207,
       "word": "Todesopfer nach Lawinenunglück",
-      "parentId": 205
+      "parentIds": [
+        205
+      ]
     },
     {
       "id": 208,
       "word": "Erfrorene",
-      "parentId": 205
+      "parentIds": [
+        205
+      ]
     },
     {
       "id": 209,
       "word": "Lawinengefahr",
-      "parentId": 181
+      "parentIds": [
+        181
+      ]
     },
     {
       "id": 210,
       "word": "Lawinenrisiko",
-      "parentId": 209
+      "parentIds": [
+        209
+      ]
     },
     {
       "id": 211,
       "word": "Lawinenkunde",
-      "parentId": 210
+      "parentIds": [
+        210
+      ]
     },
     {
       "id": 212,
       "word": "Hangneigung: Einschätzung der Lawinengefahr",
-      "parentId": 211
+      "parentIds": [
+        211
+      ]
     },
     {
       "id": 213,
       "word": "Sicherheit während Skitouren",
-      "parentId": 212
+      "parentIds": [
+        212
+      ]
     },
     {
       "id": 214,
       "word": "Neigungswinkel des Hanges",
-      "parentId": 212
+      "parentIds": [
+        212
+      ]
     },
     {
       "id": 215,
       "word": "Gradient (Meteorologie)",
-      "parentId": 212
+      "parentIds": [
+        212
+      ]
     },
     {
       "id": 216,
       "word": "Lawinenabgang",
-      "parentId": 212
+      "parentIds": [
+        212
+      ]
     },
     {
       "id": 217,
       "word": "Lawinengefahrenstufe",
-      "parentId": 212
+      "parentIds": [
+        212
+      ]
     },
     {
       "id": 218,
       "word": "Lawinenwarnung",
-      "parentId": 209
+      "parentIds": [
+        209
+      ]
     },
     {
       "id": 219,
       "word": "Berechnung von Lawinenwarnzone",
-      "parentId": 218
+      "parentIds": [
+        218
+      ]
     },
     {
       "id": 220,
       "word": "Lawinenlagebericht",
-      "parentId": 218
+      "parentIds": [
+        218
+      ]
     },
     {
       "id": 221,
       "word": "Lawinenwarnstufe",
-      "parentId": 218
+      "parentIds": [
+        218
+      ]
     },
     {
       "id": 222,
       "word": "Lawinenrisikomanagment",
-      "parentId": 221
+      "parentIds": [
+        221
+      ]
     },
     {
       "id": 223,
       "word": "Lawinenstrategie",
-      "parentId": 221
+      "parentIds": [
+        221
+      ]
     },
     {
       "id": 224,
       "word": "Klimabedingte",
-      "parentId": 1
+      "parentIds": [
+        1
+      ]
     },
     {
       "id": 225,
       "word": "Klimawandel",
-      "parentId": 224
+      "parentIds": [
+        224
+      ]
     },
     {
       "id": 226,
       "word": "Extremwetterereignis",
-      "parentId": 224
+      "parentIds": [
+        224
+      ]
     },
     {
       "id": 227,
       "word": "Hitze",
-      "parentId": 147
+      "parentIds": [
+        147
+      ]
     },
     {
       "id": 228,
       "word": "Hitzeperiode",
-      "parentId": 227
+      "parentIds": [
+        227
+      ]
     },
     {
       "id": 229,
       "word": "Hitzebelastung",
-      "parentId": 228
+      "parentIds": [
+        228
+      ]
     },
     {
       "id": 230,
       "word": "Maßnahme gegen Hitze",
-      "parentId": 147
+      "parentIds": [
+        147
+      ]
     },
     {
       "id": 231,
       "word": "Hitzeschutzplan",
-      "parentId": 230
+      "parentIds": [
+        230
+      ]
     },
     {
       "id": 232,
       "word": "Trinkwasserbrunnen",
-      "parentId": 231
+      "parentIds": [
+        231
+      ]
     },
     {
       "id": 233,
       "word": "regulierte Arbeitszeiten und -bedingungen",
-      "parentId": 231
+      "parentIds": [
+        231
+      ]
     },
     {
       "id": 234,
       "word": "Hitzefrei",
-      "parentId": 231
+      "parentIds": [
+        231
+      ]
     },
     {
       "id": 235,
       "word": "Seniorenbesuch in Heißperioden",
-      "parentId": 231
+      "parentIds": [
+        231
+      ]
     },
     {
       "id": 236,
       "word": "Kühlsäle",
-      "parentId": 231
+      "parentIds": [
+        231
+      ]
     },
     {
       "id": 237,
       "word": "Tierschutz",
-      "parentId": 231
+      "parentIds": [
+        231
+      ]
     },
     {
       "id": 238,
       "word": "Eis für Vierbeiner",
-      "parentId": 237
+      "parentIds": [
+        237
+      ]
     },
     {
       "id": 239,
       "word": "Sonnencreme mit hohem Lichtschutzfaktor",
-      "parentId": 231
+      "parentIds": [
+        231
+      ]
     },
     {
       "id": 240,
       "word": "Klimaanlage gegen die Hitze",
-      "parentId": 231
+      "parentIds": [
+        231
+      ]
     },
     {
       "id": 241,
       "word": "Sommergrippe",
-      "parentId": 240
+      "parentIds": [
+        240
+      ]
     },
     {
       "id": 242,
       "word": "Maßnahme für Begrünung uns Schattierung",
-      "parentId": 230
+      "parentIds": [
+        230
+      ]
     },
     {
       "id": 243,
       "word": "Hagelschutznetz",
-      "parentId": 242
+      "parentIds": [
+        242
+      ]
     },
     {
       "id": 244,
       "word": "gegen Sonnebrand für Bäume",
-      "parentId": 243
+      "parentIds": [
+        243
+      ]
     },
     {
       "id": 245,
       "word": "Hitze- & Trokcenheitfolge",
-      "parentId": 147
+      "parentIds": [
+        147
+      ]
     },
     {
       "id": 246,
       "word": "Hitzeerkrankung",
-      "parentId": 245
+      "parentIds": [
+        245
+      ]
     },
     {
       "id": 247,
       "word": "Kreislaufbeschwerde bei Hitze",
-      "parentId": 246
+      "parentIds": [
+        246
+      ]
     },
     {
       "id": 248,
       "word": "Magen-Darm-Infektion",
-      "parentId": 246
+      "parentIds": [
+        246
+      ]
     },
     {
       "id": 249,
       "word": "Sonnenstich",
-      "parentId": 246
+      "parentIds": [
+        246
+      ]
     },
     {
       "id": 250,
       "word": "Hitzekollaps-/schlag",
-      "parentId": 246
+      "parentIds": [
+        246
+      ]
     },
     {
       "id": 251,
       "word": "Hitzekrampf",
-      "parentId": 246
+      "parentIds": [
+        246
+      ]
     },
     {
       "id": 252,
       "word": "fehlende Thermoregulation",
-      "parentId": 246
+      "parentIds": [
+        246
+      ]
     },
     {
       "id": 253,
       "word": "Wärmebelastung",
-      "parentId": 246
+      "parentIds": [
+        246
+      ]
     },
     {
       "id": 254,
       "word": "Schlafproblem",
-      "parentId": 246
+      "parentIds": [
+        246
+      ]
     },
     {
       "id": 255,
       "word": "Natur- und Landwirtschaftprobleme während Hitzeperioden",
-      "parentId": 245
+      "parentIds": [
+        245
+      ]
     },
     {
       "id": 256,
       "word": "sinkendes Grundwasserspiegel",
-      "parentId": 255
+      "parentIds": [
+        255
+      ]
     },
     {
       "id": 257,
       "word": "Auswirkung auf Erntejahr",
-      "parentId": 245
+      "parentIds": [
+        245
+      ]
     },
     {
       "id": 258,
       "word": "Dürrenuswirkung auf Forstwirtschaft",
-      "parentId": 257
+      "parentIds": [
+        257
+      ]
     },
     {
       "id": 259,
       "word": "erschwete Bekämpfung des Borkenkäfers",
-      "parentId": 258
+      "parentIds": [
+        258
+      ]
     },
     {
       "id": 260,
       "word": "Wasserknappheit",
-      "parentId": 258
+      "parentIds": [
+        258
+      ]
     },
     {
       "id": 261,
       "word": "Niedrigwasser",
-      "parentId": 260
+      "parentIds": [
+        260
+      ]
     },
     {
       "id": 262,
       "word": "ausgetroknete Flussläufe",
-      "parentId": 258
+      "parentIds": [
+        258
+      ]
     },
     {
       "id": 263,
       "word": "Blaualgenplagen",
-      "parentId": 258
+      "parentIds": [
+        258
+      ]
     },
     {
       "id": 264,
       "word": "ausgetrockneter Boden",
-      "parentId": 258
+      "parentIds": [
+        258
+      ]
     },
     {
       "id": 265,
       "word": "Gefahr von Waldbränden",
-      "parentId": 258
+      "parentIds": [
+        258
+      ]
     },
     {
       "id": 266,
       "word": "Hochwasser",
-      "parentId": 226
+      "parentIds": [
+        226
+      ]
     },
     {
       "id": 267,
       "word": "Flutkatastrophe",
-      "parentId": 266
+      "parentIds": [
+        266
+      ]
     },
     {
       "id": 268,
       "word": "Überflutung",
-      "parentId": 267
+      "parentIds": [
+        267
+      ]
     },
     {
       "id": 269,
       "word": "Flutwelle",
-      "parentId": 268
+      "parentIds": [
+        268
+      ]
     },
     {
       "id": 270,
       "word": "Flutpolder",
-      "parentId": 268
+      "parentIds": [
+        268
+      ]
     },
     {
       "id": 271,
       "word": "Überflutungsgefahr",
-      "parentId": 268
+      "parentIds": [
+        268
+      ]
     },
     {
       "id": 272,
       "word": "flutgeschädigten",
-      "parentId": 268
+      "parentIds": [
+        268
+      ]
     },
     {
       "id": 273,
       "word": "überflutet",
-      "parentId": 272
+      "parentIds": [
+        272
+      ]
     },
     {
       "id": 274,
       "word": "Fluthilfe",
-      "parentId": 268
+      "parentIds": [
+        268
+      ]
     },
     {
       "id": 275,
       "word": "Flutopfer",
-      "parentId": 268
+      "parentIds": [
+        268
+      ]
     },
     {
       "id": 276,
       "word": "Flutgebiet",
-      "parentId": 268
+      "parentIds": [
+        268
+      ]
     },
     {
       "id": 277,
       "word": "Überflutungsfläche",
-      "parentId": 276
+      "parentIds": [
+        276
+      ]
     },
     {
       "id": 278,
       "word": "sturzflutartiges",
-      "parentId": 120
+      "parentIds": [
+        120
+      ]
     },
     {
       "id": 279,
       "word": "Unwetter",
-      "parentId": 266
+      "parentIds": [
+        266
+      ]
     },
     {
       "id": 280,
       "word": "Starkregenfall",
-      "parentId": 136
+      "parentIds": [
+        136
+      ]
     },
     {
       "id": 281,
       "word": "Starkgewitter",
-      "parentId": 136
+      "parentIds": [
+        136
+      ]
     },
     {
       "id": 282,
       "word": "Starkniederschlag",
-      "parentId": 136
+      "parentIds": [
+        136
+      ]
     },
     {
       "id": 283,
       "word": "Sturmkatastrophe",
-      "parentId": 279
+      "parentIds": [
+        279
+      ]
     },
     {
       "id": 284,
       "word": "Sturm Sabine",
-      "parentId": 283
+      "parentIds": [
+        283
+      ]
     },
     {
       "id": 285,
       "word": "Hagelsturm",
-      "parentId": 283
+      "parentIds": [
+        283
+      ]
     },
     {
       "id": 286,
       "word": "Schneesturm",
-      "parentId": 283
+      "parentIds": [
+        283
+      ]
     },
     {
       "id": 287,
       "word": "Sandsturm",
-      "parentId": 283
+      "parentIds": [
+        283
+      ]
     },
     {
       "id": 288,
       "word": "Strumschaden",
-      "parentId": 283
+      "parentIds": [
+        283
+      ]
     },
     {
       "id": 289,
       "word": "Sturmböe",
-      "parentId": 283
+      "parentIds": [
+        283
+      ]
     },
     {
       "id": 290,
       "word": "sturmbedingt",
-      "parentId": 283
+      "parentIds": [
+        283
+      ]
     },
     {
       "id": 291,
       "word": "Sturmwarnung",
-      "parentId": 283
+      "parentIds": [
+        283
+      ]
     },
     {
       "id": 292,
       "word": "Sturmintensität",
-      "parentId": 291
+      "parentIds": [
+        291
+      ]
     },
     {
       "id": 293,
       "word": "Sturmflutrisiko",
-      "parentId": 283
+      "parentIds": [
+        283
+      ]
     },
     {
       "id": 294,
       "word": "Sturmflutgefahr",
-      "parentId": 293
+      "parentIds": [
+        293
+      ]
     },
     {
       "id": 295,
       "word": "Sturmwahrscheinlichkeit",
-      "parentId": 293
+      "parentIds": [
+        293
+      ]
     },
     {
       "id": 296,
       "word": "Sturmflutereignis",
-      "parentId": 283
+      "parentIds": [
+        283
+      ]
     },
     {
       "id": 297,
       "word": "Biologische",
-      "parentId": 1
+      "parentIds": [
+        1
+      ]
     },
     {
       "id": 298,
       "word": "Insektenplagen",
-      "parentId": 297
+      "parentIds": [
+        297
+      ]
     },
     {
       "id": 299,
       "word": "Schädlingsplagen",
-      "parentId": 298
+      "parentIds": [
+        298
+      ]
     },
     {
       "id": 300,
       "word": "Epidemie",
-      "parentId": 297
+      "parentIds": [
+        297
+      ]
     },
     {
       "id": 301,
       "word": "Extraterrestrische",
-      "parentId": 1
+      "parentIds": [
+        1
+      ]
     },
     {
       "id": 302,
       "word": "Meteoriteneinschlag",
-      "parentId": 301
+      "parentIds": [
+        301
+      ]
     },
     {
       "id": 303,
       "word": "Schwarmlawine",
-      "parentId": 119
+      "parentIds": [
+        119
+      ]
     },
     {
       "id": 304,
       "word": "Murgang",
-      "parentId": 303
+      "parentIds": [
+        303
+      ]
     },
     {
       "id": 305,
       "word": "Abholzung",
-      "parentId": 182
+      "parentIds": [
+        182
+      ]
     },
     {
       "id": 306,
       "word": "Erderwärmung",
-      "parentId": 182
+      "parentIds": [
+        182
+      ]
     },
     {
       "id": 307,
       "word": "Katastrophenvorsorge und -planung",
-      "parentId": 0
+      "parentIds": [
+        0
+      ]
     },
     {
       "id": 308,
       "word": "Frühwarnsystem",
-      "parentId": 307
+      "parentIds": [
+        307
+      ]
     },
     {
       "id": 309,
       "word": "Wetterdienstbericht",
-      "parentId": 308
+      "parentIds": [
+        308
+      ]
     },
     {
       "id": 310,
       "word": "SMS-Warnsystem für Katastrophen",
-      "parentId": 308
+      "parentIds": [
+        308
+      ]
     },
     {
       "id": 311,
       "word": "Deich für Küstenstadt",
-      "parentId": 308
+      "parentIds": [
+        308
+      ]
     },
     {
       "id": 312,
       "word": "Erdbebenfrühwarnung",
-      "parentId": 308
+      "parentIds": [
+        308
+      ]
     },
     {
       "id": 313,
       "word": "KI-Warnsystem für Unwetterwarnung",
-      "parentId": 308
+      "parentIds": [
+        308
+      ]
     },
     {
       "id": 314,
       "word": "Luftrettungsstaffel",
-      "parentId": 308
+      "parentIds": [
+        308
+      ]
     },
     {
       "id": 315,
       "word": "Deutscher Flugbeobachtungsdienst Luftrettungsstaffel Bayern",
-      "parentId": 314
+      "parentIds": [
+        314
+      ]
     },
     {
       "id": 316,
       "word": "intakte Wälder",
-      "parentId": 308
+      "parentIds": [
+        308
+      ]
     },
     {
       "id": 317,
       "word": "Natürliche Auen",
-      "parentId": 308
+      "parentIds": [
+        308
+      ]
     },
     {
       "id": 318,
       "word": "Evakuierung",
-      "parentId": 307
+      "parentIds": [
+        307
+      ]
     },
     {
       "id": 319,
       "word": "Evakuierungstreffpunkt finden",
-      "parentId": 318
+      "parentIds": [
+        318
+      ]
     },
     {
       "id": 320,
       "word": "Evakuierungszentrum",
-      "parentId": 318
+      "parentIds": [
+        318
+      ]
     },
     {
       "id": 321,
       "word": "Evakuierungszone",
-      "parentId": 318
+      "parentIds": [
+        318
+      ]
     },
     {
       "id": 322,
       "word": "Evakuierungsaufforderung",
-      "parentId": 318
+      "parentIds": [
+        318
+      ]
     },
     {
       "id": 323,
       "word": "Katastrophennotfallplan",
-      "parentId": 307
+      "parentIds": [
+        307
+      ]
     },
     {
       "id": 324,
       "word": "Evakuierungsplan",
-      "parentId": 323
+      "parentIds": [
+        323
+      ]
     },
     {
       "id": 325,
       "word": "Katastrophenschutzübung",
-      "parentId": 307
+      "parentIds": [
+        307
+      ]
     },
     {
       "id": 326,
       "word": "Trainingsprogramm für Bevölkerung",
-      "parentId": 325
+      "parentIds": [
+        325
+      ]
     },
     {
       "id": 327,
       "word": "Brandschutz",
-      "parentId": 325
+      "parentIds": [
+        325
+      ]
     },
     {
       "id": 328,
       "word": "vorbeugender Brandschutz",
-      "parentId": 327
+      "parentIds": [
+        327
+      ]
     },
     {
       "id": 329,
       "word": "Katastrophenmanagement",
-      "parentId": 307
+      "parentIds": [
+        307
+      ]
     },
     {
       "id": 330,
       "word": "Katastrophenschutz",
-      "parentId": 329
+      "parentIds": [
+        329
+      ]
     },
     {
       "id": 331,
       "word": "Katastrophenschutzgesetz",
-      "parentId": 330
+      "parentIds": [
+        330
+      ]
     },
     {
       "id": 332,
       "word": "Katastrophenschutzbehörde",
-      "parentId": 329
+      "parentIds": [
+        329
+      ]
     },
     {
       "id": 333,
       "word": "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK)",
-      "parentId": 332
+      "parentIds": [
+        332
+      ]
     },
     {
       "id": 334,
       "word": "EU-Katastrophenschutzverfahren",
-      "parentId": 329
+      "parentIds": [
+        329
+      ]
     },
     {
       "id": 335,
       "word": "Versicherungsschutz",
-      "parentId": 329
+      "parentIds": [
+        329
+      ]
     },
     {
       "id": 336,
       "word": "Haftversicherungspflicht",
-      "parentId": 335
+      "parentIds": [
+        335
+      ]
     },
     {
       "id": 337,
       "word": "Langfristige Maßnahmen und Wiederaufbau",
-      "parentId": 329
+      "parentIds": [
+        329
+      ]
     },
     {
       "id": 338,
       "word": "Schadensbegrenzung",
-      "parentId": 337
+      "parentIds": [
+        337
+      ]
     },
     {
       "id": 339,
       "word": "Hilfsmaßnahme &  Schadenvorsorge",
-      "parentId": 337
+      "parentIds": [
+        337
+      ]
     },
     {
       "id": 340,
       "word": "Wiederaufbau nach Naturkatastrophe",
-      "parentId": 337
+      "parentIds": [
+        337
+      ]
     },
     {
       "id": 341,
       "word": "Sach- und Wohngebäudeversicherung gegen Naturkatastrophen",
-      "parentId": 340
+      "parentIds": [
+        340
+      ]
     },
     {
       "id": 342,
       "word": "Rettung und Soforthilfe",
-      "parentId": 0
+      "parentIds": [
+        0
+      ]
     },
     {
       "id": 343,
       "word": "Rettungseinsatz",
-      "parentId": 342
+      "parentIds": [
+        342
+      ]
     },
     {
       "id": 344,
       "word": "Hilfstransport (Katastrophenhilfe)",
-      "parentId": 343
+      "parentIds": [
+        343
+      ]
     },
     {
       "id": 345,
       "word": "Deutsche GeoForschungsZentrum",
-      "parentId": 343
+      "parentIds": [
+        343
+      ]
     },
     {
       "id": 346,
       "word": "RKT (Regensburger Krankentransport)",
-      "parentId": 343
+      "parentIds": [
+        343
+      ]
     },
     {
       "id": 347,
       "word": "Retungsorganisation Weißhelme",
-      "parentId": 343
+      "parentIds": [
+        343
+      ]
     },
     {
       "id": 348,
       "word": "Türkischer Roter Halbmond",
-      "parentId": 343
+      "parentIds": [
+        343
+      ]
     },
     {
       "id": 349,
       "word": "Notfallvorsorge",
-      "parentId": 342
+      "parentIds": [
+        342
+      ]
     },
     {
       "id": 350,
       "word": "Opferhilfe",
-      "parentId": 342
+      "parentIds": [
+        342
+      ]
     },
     {
       "id": 351,
       "word": "schnelle Visavergabe",
-      "parentId": 350
+      "parentIds": [
+        350
+      ]
     },
     {
       "id": 352,
       "word": "Flüchtlichgsorganisation",
-      "parentId": 351
+      "parentIds": [
+        351
+      ]
     },
     {
       "id": 353,
       "word": "Versorgung von Überlebenden und Verletzten",
-      "parentId": 350
+      "parentIds": [
+        350
+      ]
     },
     {
       "id": 354,
       "word": "medizinische Versorgung für Natirkatastrophenopfer",
-      "parentId": 350
+      "parentIds": [
+        350
+      ]
     },
     {
       "id": 355,
       "word": "Verpflegung, Strom- und Trinkwasserversorgung",
-      "parentId": 350
+      "parentIds": [
+        350
+      ]
     },
     {
       "id": 356,
       "word": "Nothilfe nach Naturkatastrophe",
-      "parentId": 342
+      "parentIds": [
+        342
+      ]
     },
     {
       "id": 357,
       "word": "Ausnahmezustand",
-      "parentId": 356
+      "parentIds": [
+        356
+      ]
     },
     {
       "id": 358,
       "word": "Notunterkunft für Betroffenen",
-      "parentId": 356
+      "parentIds": [
+        356
+      ]
     },
     {
       "id": 359,
       "word": "Sach- und Geldspende",
-      "parentId": 356
+      "parentIds": [
+        356
+      ]
     },
     {
       "id": 360,
       "word": "Hilfsgut für Betroffene",
-      "parentId": 356
+      "parentIds": [
+        356
+      ]
     },
     {
       "id": 361,
       "word": "Katastrophenschaden",
-      "parentId": 0
+      "parentIds": [
+        0
+      ]
     },
     {
       "id": 362,
       "word": "entwurzelte vom Sturm/Orkan Baum",
-      "parentId": 361
+      "parentIds": [
+        361
+      ]
     },
     {
       "id": 363,
       "word": "Gebäudeschaden nach Naturkatastrophe",
-      "parentId": 361
+      "parentIds": [
+        361
+      ]
     },
     {
       "id": 364,
       "word": "Elementarschadenversicherung",
-      "parentId": 363
+      "parentIds": [
+        363
+      ]
     },
     {
       "id": 365,
       "word": "überflutete Straße",
-      "parentId": 361
+      "parentIds": [
+        361
+      ]
     },
     {
       "id": 366,
       "word": "Sachschaden",
-      "parentId": 361
+      "parentIds": [
+        361
+      ]
     },
     {
       "id": 367,
       "word": "Unwetterstörung Bahn- und Straßenverkehr",
-      "parentId": 361
+      "parentIds": [
+        361
+      ]
     }
   ],
   "links": [

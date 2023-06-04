@@ -16,10 +16,12 @@ const processObject = (obj, parentNode = null) => {
       nodeForWord = {
         id: outputObject.nodes.length,
         word: key,
-        parentId: parentNode.id,
+        parentIds: [parentNode.id],
       };
 
       outputObject.nodes.push(nodeForWord);
+    } else {
+        nodeForWord.parentIds.push(parentNode.id);
     }
 
     outputObject.links.push({

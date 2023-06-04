@@ -4,7 +4,7 @@ from selenium import webdriver
 import json
 from parse_article import parse_article
 
-folder_path = '../'
+folder_path = '../../BR24/'
 
 options = webdriver.ChromeOptions()
 # options.add_argument('--headless')  # run in headless mode
